@@ -11,7 +11,7 @@
 13	Counter-Strike / Counter-Strike: Condition Zero
 14	Counter-Strike / Counter-Strike: Condition Zero
 15	Counter-Strike / Counter-Strike: Condition Zero
-16	Unknown / No Depot
+16	Counter-Strike / Counter-Strike: Condition Zero
 17	Counter-Strike / Counter-Strike: Condition Zero
 18	Counter-Strike / Counter-Strike: Condition Zero
 19	Counter-Strike / Counter-Strike: Condition Zero
@@ -44,7 +44,7 @@
 73	Counter-Strike / Team Fortress Classic / Day of Defeat / Deathmatch Classic / Half-Life: Opposing Force / Ricochet / Half-Life / Counter-Strike: Condition Zero Deleted Scenes / Half-Life: Blue Shift
 74	Counter-Strike / Team Fortress Classic / Day of Defeat / Deathmatch Classic / Half-Life: Opposing Force / Ricochet / Half-Life / Counter-Strike: Condition Zero Deleted Scenes / Half-Life: Blue Shift
 75	Counter-Strike / Team Fortress Classic / Day of Defeat / Deathmatch Classic / Half-Life: Opposing Force / Ricochet / Half-Life / Counter-Strike: Condition Zero Deleted Scenes / Half-Life: Blue Shift
-76	Unknown / No Depot
+76	Counter-Strike / Team Fortress Classic / Day of Defeat / Deathmatch Classic / Half-Life: Opposing Force / Ricochet / Half-Life / Counter-Strike: Condition Zero Deleted Scenes / Half-Life: Blue Shift
 77	Counter-Strike / Team Fortress Classic / Day of Defeat / Deathmatch Classic / Half-Life: Opposing Force / Ricochet / Half-Life / Counter-Strike: Condition Zero Deleted Scenes / Half-Life: Blue Shift
 78	Counter-Strike / Team Fortress Classic / Day of Defeat / Deathmatch Classic / Half-Life: Opposing Force / Ricochet / Half-Life / Counter-Strike: Condition Zero Deleted Scenes / Half-Life: Blue Shift
 79	Counter-Strike / Team Fortress Classic / Day of Defeat / Deathmatch Classic / Half-Life: Opposing Force / Ricochet / Half-Life / Counter-Strike: Condition Zero Deleted Scenes
@@ -53,7 +53,7 @@
 83	Counter-Strike: Condition Zero
 84	Counter-Strike: Condition Zero
 85	Counter-Strike: Condition Zero
-86	Unknown / No Depot
+86	Counter-Strike: Condition Zero
 87	Counter-Strike: Condition Zero
 88	Counter-Strike: Condition Zero
 89	Counter-Strike: Condition Zero
@@ -61,13 +61,13 @@
 95	Counter-Strike
 96	Team Fortress Classic / Half-Life: Opposing Force / Half-Life / Half-Life: Blue Shift
 101	Counter-Strike: Condition Zero Deleted Scenes
-102	Unknown / No Depot
-103	Unknown / No Depot
+102	Counter-Strike: Condition Zero Deleted Scenes
+103	Counter-Strike: Condition Zero Deleted Scenes
 104	Counter-Strike: Condition Zero Deleted Scenes
 105	Counter-Strike: Condition Zero Deleted Scenes
 106	Counter-Strike: Condition Zero Deleted Scenes
 107	Counter-Strike: Condition Zero Deleted Scenes
-108	Unknown / No Depot
+108	Counter-Strike: Condition Zero Deleted Scenes
 109	Counter-Strike: Condition Zero Deleted Scenes
 110	Counter-Strike: Condition Zero Deleted Scenes
 111	Counter-Strike: Condition Zero Deleted Scenes
@@ -75,13 +75,13 @@
 131	Half-Life: Blue Shift
 132	Half-Life: Blue Shift
 151	Half-Life
-152	Unknown / No Depot
+152	Counter-Strike Beta
 153	Half-Life (dedicated server)
-154	Unknown / No Depot
-160	Unknown / No Depot
+154	Half-Life (dedicated server)(Linux)
+160	SourceInit data
 200	Source Engine Runtime
 201	Half-Life 2
-202	Unknown / No Depot
+202	SourceInit data
 203	Half-Life 2
 204	Source Dedicated Server (Linux)
 205	Source Dedicated Server (Windows)
@@ -96,7 +96,7 @@
 216	Source SDK Base 2007 / Age of Chivalry / D.I.P.R.I.P. Warm Up / Smashball
 217	Half-Life 2
 218	Source SDK Base 2007 / Source 2007 Dedicated Server
-219	Unknown / No Depot
+219	Half-Life 2 (shared)
 221	Half-Life 2: Demo / Half-Life 2 / Half-Life: Source / Half-Life 2: Lost Coast / Half-Life 2: Episode One / Half-Life 2: Episode Two
 223	Half-Life 2: Demo / Half-Life 2 / Half-Life: Source / Half-Life 2: Lost Coast / Half-Life 2: Episode One / Half-Life 2: Episode Two
 224	Half-Life 2: Demo / Half-Life 2 / Half-Life: Source / Half-Life 2: Lost Coast / Half-Life 2: Episode One / Half-Life 2: Episode Two
@@ -110,8 +110,8 @@
 232	Half-Life 2: Demo / Half-Life 2 / Half-Life: Source / Half-Life 2: Lost Coast / Half-Life 2: Episode One
 233	Half-Life 2: Demo / Half-Life 2
 234	Half-Life 2: Demo / Half-Life 2
-235	Unknown / No Depot
-236	Unknown / No Depot
+235	Half-Life 2 (localization)
+236	Half-Life 2 (localization)
 241	Counter-Strike: Source Client
 242	Counter-Strike: Source Content
 243	Counter-Strike: Source Localization
@@ -126,10 +126,10 @@
 252	Counter-Strike: Source Localization
 253	Counter-Strike: Source Localization
 254	Half-Life 2
-255	Unknown / No Depot
+255	Half-Life 2 (Linux)
 256	Source Dedicated Server
-257	Unknown / No Depot
-258	Unknown / No Depot
+257	Half-Life 2 (dedicated, Linux)
+258	Half-Life 2 (Linux)
 261	Counter-Strike: Source Beta Content
 262	Counter-Strike: Source Beta Content 2
 263	Counter-Strike: Source Beta Engine
@@ -141,13 +141,13 @@
 286	Half-Life: Source
 287	Half-Life: Source
 288	Half-Life: Source
-289	Unknown / No Depot
-290	Unknown / No Depot
-291	Unknown / No Depot
-292	Unknown / No Depot
-293	Unknown / No Depot
+289	Half-Life (localization)
+290	Half-Life (localization)
+291	Half-Life (localization)
+292	Half-Life (localization)
+293	Half-Life (localization)
 301	Day of Defeat: Source
-303	Unknown / No Depot
+303	Day of Defeat: Source (beta)
 304	Day of Defeat: Source Press Review
 305	Source SDK Base 2007 / Source 2007 Dedicated Server / Age of Chivalry / Age of Chivalry Dedicated Server / Synergy Dedicated Server / D.I.P.R.I.P. Warm Up / D.I.P.R.I.P. Dedicated Server / Smashball / MINERVA: Metastasis
 306	Source SDK Base 2007 / Source 2007 Dedicated Server / Age of Chivalry / Age of Chivalry Dedicated Server / Synergy Dedicated Server / D.I.P.R.I.P. Warm Up / D.I.P.R.I.P. Dedicated Server / Smashball / MINERVA: Metastasis
@@ -156,15 +156,15 @@
 309	Source SDK Base 2006 / Source SDK Base 2007 / MINERVA: Metastasis
 310	Source SDK Base 2007 / Source 2007 Dedicated Server / Age of Chivalry Dedicated Server / Synergy Dedicated Server / D.I.P.R.I.P. Dedicated Server
 311	Source SDK Base 2007 / Source 2007 Dedicated Server / Age of Chivalry Dedicated Server
-312	Unknown / No Depot
+312	Half-Life 2 (shared)
 313	Source Dedicated Server
-314	Unknown / No Depot
+314	Half-Life 2 (shared)
 315	Source SDK Base 2007 / MINERVA: Metastasis
-316	Unknown / No Depot
+316	Half-Life 2 (Mac)
 317	Source SDK Base 2007 / MINERVA: Metastasis
-319	Unknown / No Depot
+319	Half-Life 2 (shared)
 321	Half-Life 2: Deathmatch
-322	Unknown / No Depot
+322	Half-Life 2 (Linux)
 341	Half-Life 2 / Half-Life 2: Lost Coast
 342	Half-Life 2 / Half-Life 2: Lost Coast
 343	Half-Life 2 / Half-Life 2: Lost Coast
@@ -173,10 +173,10 @@
 346	Half-Life 2 / Half-Life 2: Lost Coast
 347	Half-Life 2 / Half-Life 2: Lost Coast
 348	Half-Life 2 / Half-Life 2: Lost Coast
-349	Unknown / No Depot
-350	Unknown / No Depot
+349	Half-Life 2: Lost Coast (localization)
+350	Half-Life 2: Lost Coast (localization)
 351	F.E.A.R. 2: Project Origin Demo
-352	Unknown / No Depot
+352	Unknown (runme.exe)
 355	Spore
 360	Half-Life Deathmatch: Source
 363	Half-Life Deathmatch: Source
@@ -189,7 +189,7 @@
 387	Half-Life 2 / Half-Life 2: Episode One
 388	Half-Life 2 / Half-Life 2: Episode One
 389	Half-Life 2 / Half-Life 2: Episode One / Half-Life 2: Episode Two
-390	Unknown / No Depot
+390	Half-Life 2 / Half-Life 2: Episode One
 401	Portal
 402	Portal / Portal: First Slice
 403	Portal / Portal: First Slice
@@ -197,27 +197,27 @@
 405	Portal / Portal: First Slice
 406	Portal / Portal: First Slice
 407	Portal / Portal: First Slice
-411	Unknown / No Depot
+411	Portal / Portal: First Slice
 421	Source SDK Base 2006 / Half-Life 2 / Half-Life 2: Episode Two
 422	Source SDK Base 2006 / Half-Life 2 / Half-Life 2: Episode Two
 423	Source SDK Base 2006 / Half-Life 2 / Half-Life 2: Episode Two
 424	Half-Life 2 / Half-Life 2: Episode Two
-425	Unknown / No Depot
-426	Unknown / No Depot
-427	Unknown / No Depot
-428	Unknown / No Depot
-429	Unknown / No Depot
+425	Half-Life 2 / Half-Life 2: Episode Two
+426	Half-Life 2 / Half-Life 2: Episode Two
+427	Half-Life 2 / Half-Life 2: Episode Two
+428 Half-Life 2 / Half-Life 2: Episode Two
+429	Half-Life 2 / Half-Life 2: Episode Two
 441	Team Fortress 2
-442	Unknown / No Depot
-443	Unknown / No Depot
+442	Team Fortress 2
+443	Team Fortress 2
 444	Team Fortress 2
 445	Team Fortress 2
 446	Team Fortress 2
 448	Team Fortress 2
 449	Team Fortress 2
-451	Unknown / No Depot
-452	Unknown / No Depot
-461	Unknown / No Depot
+451	Team Fortress 2
+452	Team Fortress 2
+461	Half-Life 2 2007
 481	Spacewar
 501	Left 4 Dead / Left 4 Dead Dedicated Server / Left 4 Dead Authoring Tools
 502	Left 4 Dead / Left 4 Dead Dedicated Server / Left 4 Dead Authoring Tools
@@ -229,16 +229,16 @@
 508	Left 4 Dead
 509	Left 4 Dead
 511	Left 4 Dead Dedicated Server
-512	Unknown / No Depot
+512	Left 4 Dead (dedicated)
 513	Left 4 Dead Authoring Tools
 515	Left 4 Dead
 521	Half-Life 2
-522	Unknown / No Depot
-523	Unknown / No Depot
-524	Unknown / No Depot
-525	Unknown / No Depot
-526	Unknown / No Depot
-527	Unknown / No Depot
+522	Team Fortress 2 Beta
+523	Team Fortress 2 Beta
+524	Team Fortress 2 Beta
+525	Team Fortress 2 Beta
+526	Team Fortress 2 Beta
+527	Team Fortress 2 Beta
 531	Left 4 Dead Demo / Left 4 Dead Demo Dedicated Server
 532	Left 4 Dead Demo
 533	Left 4 Dead Demo
@@ -246,7 +246,7 @@
 535	Left 4 Dead Demo
 536	Left 4 Dead Demo
 537	Left 4 Dead Demo
-538	Unknown / No Depot
+538	Left 4 Dead Demo / Left 4 Dead Demo Dedicated Server
 551	Left 4 Dead 2 / Left 4 Dead 2 Authoring Tools / Left 4 Dead 2 Add-on Support
 552	Left 4 Dead 2 / Left 4 Dead 2 Authoring Tools / Left 4 Dead 2 Add-on Support
 553	Left 4 Dead 2
@@ -260,19 +260,19 @@
 563	Left 4 Dead 2 Authoring Tools
 564	Left 4 Dead 2 Add-on Support
 571	Dota 2 Workshop Tools Alpha
-572	Unknown / No Depot
+572	Dota 2 (dedicated)
 573	Dota 2 Workshop Tools Alpha
-591	Unknown / No Depot
-592	Left 4 Dead 2
-593	Unknown / No Depot
-594	Left 4 Dead 2
-595	Unknown / No Depot
-596	Unknown / No Depot
-597	Unknown / No Depot
-598	Unknown / No Depot
-599	Unknown / No Depot
+591	Left 4 Dead 2 Demo
+592	Left 4 Dead 2 Demo
+593	Left 4 Dead 2 Demo
+594	Left 4 Dead 2 Demo
+595	Left 4 Dead 2 Demo
+596	Left 4 Dead 2 Demo
+597	Left 4 Dead 2 Demo
+598	Left 4 Dead 2 Demo
+599	Left 4 Dead 2 Demo
 601	Source Dedicated Server
-602	Unknown / No Depot
+602 Left 4 Dead 2 Demo
 621	Portal 2 / Portal 2 Authoring Tools
 622	Portal 2
 623	Portal 2
@@ -287,28 +287,28 @@
 645	Portal 2
 660	Portal 2
 681	Dota 2
-682	Unknown / No Depot
-701	Left 4 Dead
-702	Unknown / No Depot
-703	Unknown / No Depot
-704	Unknown / No Depot
-705	Unknown / No Depot
-706	Unknown / No Depot
+682	Dota 2 (shared)
+701	ValveTestApp700
+702	ValveTestApp700
+703	ValveTestApp700
+704	ValveTestApp700
+705	ValveTestApp700
+706	ValveTestApp700
 711	Counter-Strike: Global Offensive / cstrike15 Engine
 712	Counter-Strike: Global Offensive / cstrike15 Content
 713	Source Dedicated Server
 731	Counter-Strike 2 / Counter-Strike Global Offensive - Dedicated Server / Counter-Strike:Global Offensive
 732	Counter-Strike 2 / Counter-Strike:Global Offensive
 733	Counter-Strike 2 / Counter-Strike:Global Offensive
-821	Unknown / No Depot
-822	Unknown / No Depot
-823	Unknown / No Depot
-824	Unknown / No Depot
-825	Unknown / No Depot
-826	Unknown / No Depot
+821	Half-Life 2 / Team Fortress 2 (shared)
+822	Half-Life 2: Episode Two (shared)
+823	Portal (shared)
+824	Day of Defeat: Source (shared)
+825	Half-Life 2 (shared)
+826	Team Fortress 2 (shared)
 827	Left 4 Dead 2
 841	Portal 2
-842	Unknown / No Depot
+842	Portal 2 (shared)
 843	Portal 2
 852	ValveTestApp852
 883	Source SDK 2007
@@ -454,17 +454,17 @@
 1316	SiN Episodes: Emergence
 1318	Sin Episodes SDK
 1321	Source SDK 2007
-1322	Unknown / No Depot
-1323	Unknown / No Depot
-1324	Unknown / No Depot
-1325	Unknown / No Depot
-1326	Unknown / No Depot
-1327	Unknown / No Depot
-1328	Unknown / No Depot
+1322	SiN Episodes: Emergence
+1323	SiN Episodes: Emergence
+1324	SiN Episodes: Emergence
+1325	SiN Episodes: Emergence
+1326	SiN Episodes: Emergence
+1327	SiN Episodes: Emergence
+1328	SiN Episodes: Emergence
 1501	Darwinia
 1503	Darwinia
 1505	Darwinia
-1506	Unknown / No Depot
+1506	Darwinia
 1511	Uplink
 1512	Uplink
 1521	DEFCON / DEFCON Demo
@@ -486,7 +486,7 @@
 1643	Disciples II: Gallean's Return / Disciples II Galleans Return Scenario Editor
 1644	Disciples II: Gallean's Return / Disciples II Galleans Return Scenario Editor
 1671	Iron Warriors: T-72 Tank Command
-1672	Unknown / No Depot
+1672	Iron Warriors: T-72 Tank Command
 1691	Space Empires V
 1701	Arx Fatalis / Arx Fatalis Demo
 1702	Arx Fatalis
@@ -496,8 +496,8 @@
 1706	Arx Fatalis
 1707	Arx Fatalis
 1821	Counter-Strike: Global Offensive
-1822	Unknown / No Depot
-1823	Unknown / No Depot
+1822	Counter-Strike: Global Offensive
+1823	Counter-Strike: Global Offensive
 1824	Counter-Strike: Global Offensive
 1825	Counter-Strike: Global Offensive
 1841	Source Filmmaker
@@ -507,7 +507,7 @@
 1904	Earth 2160
 1905	Earth 2160
 1921	Two Worlds
-1922	Unknown / No Depot
+1922	Two Worlds
 1923	Two Worlds
 1924	Two Worlds
 1925	Two Worlds
@@ -530,8 +530,8 @@
 2108	Dark Messiah of Might & Magic Single Player / Dark Messiah of Might & Magic Single Player / Dark Messiah of Might & Magic Singleplayer Demo / Dark Messiah SDK Beta
 2109	Dark Messiah of Might & Magic Single Player / Dark Messiah of Might & Magic Single Player / Dark Messiah SDK Beta
 2110	Source SDK 2007
-2111	Unknown / No Depot
-2112	Unknown / No Depot
+2111	Dark Messiah Multiplayer Open Beta
+2112	Dark Messiah Multiplayer Open Beta
 2121	Dark Messiah of Might & Magic Single Player / Dark Messiah of Might & Magic Single Player
 2122	Dark Messiah of Might & Magic Single Player / Dark Messiah of Might & Magic Single Player
 2123	Dark Messiah of Might & Magic Single Player / Dark Messiah of Might & Magic Single Player
@@ -551,7 +551,7 @@
 2144	Dark Messiah of Might & Magic Dedicated Server
 2151	Dark Messiah SDK Beta
 2152	Dark Messiah SDK Beta
-2199	Unknown / No Depot
+2199	Unknown (mm)
 2201	Quake III Arena / Quake III: Team Arena
 2211	Quake 4
 2221	Commander Keen 1
@@ -661,11 +661,11 @@
 2666	Call of Duty 2
 2667	Call of Duty 2
 2668	Call of Duty 2
-2671	Unknown (testapp/WSOPTOC)
+2671	World Series of Poker: Tournament of Champions
 2681	The History Channel: Civil War
 2682	The History Channel: Civil War
-2685	Unknown / No Depot
-2686	Unknown / No Depot
+2685	Call of Duty 2
+2686	Call of Duty 2
 2687	Call of Duty: United Offensive
 2691	Empires: Dawn of the Modern World
 2701	RollerCoaster Tycoon 3: Platinum!
@@ -677,9 +677,9 @@
 2722	ThreadSpace: Hyperbol / ThreadSpace: Hyperbol Map Editor / ThreadSpace: Hyperbol Demo
 2723	ThreadSpace: Hyperbol / ThreadSpace: Hyperbol Map Editor / ThreadSpace: Hyperbol Demo / ThreadSpace: Hyperbol dedicated server
 2731	ThreadSpace: Hyperbol Demo
-2741	Unknown / No Depot
+2741	ThreadSpace: Hyperbol
 2751	ThreadSpace: Hyperbol
-2752	Unknown / No Depot
+2752	ThreadSpace: Hyperbol
 2753	ThreadSpace: Hyperbol (dedicated server)
 2761	Neverwinter Nights 2: Platinum
 2762	Neverwinter Nights 2: Platinum - Map Editor
@@ -691,7 +691,7 @@
 2768	Neverwinter Nights 2: Platinum
 2769	Neverwinter Nights 2: Platinum
 2771	Neverwinter Nights 2
-2772	Unknown / No Depot
+2772	Neverwinter Nights 2 (data)
 2781	Arma: Combat Operations
 2782	Arma: Combat Operations
 2783	Arma: Combat Operations
@@ -774,7 +774,7 @@
 3232	Genesis Rising
 3251	SpaceForce: Rogue Universe
 3261	Safecracker: The Ultimate Puzzle Adventure
-3262	Unknown (Uninstall only)
+3262	Safecracker: The Ultimate Puzzle Adventure
 3263	Safecracker: The Ultimate Puzzle Adventure
 3264	Safecracker: The Ultimate Puzzle Adventure
 3265	Safecracker: The Ultimate Puzzle Adventure
@@ -783,12 +783,12 @@
 3273	Painkiller Overdose
 3281	Painkiller Overdose Demo
 3291	Gothic 3
-3292	Unknown / No Depot
-3293	Unknown / No Depot
-3294	Unknown / No Depot
-3295	Unknown / No Depot
-3296	Unknown / No Depot
-3297	Unknown / No Depot
+3292	Gothic 3 (localization)
+3293	Gothic 3 (localization)
+3294	Gothic 3 (localization)
+3295	Gothic 3 (localization)
+3296	Gothic 3 (localization)
+3297	Gothic 3 (localization)
 3301	Bejeweled 2 Deluxe / Bejeweled 2 Deluxe Demo
 3303	Bejeweled 2 Deluxe / Bejeweled 2 Deluxe Demo
 3304	Bejeweled 2 Deluxe / Bejeweled 2 Deluxe Demo
@@ -886,7 +886,7 @@
 3736	Aliens versus Predator Classic 2000
 3771	Empire Earth
 3781	Empire Earth: Art of Conquest
-3791	Unknown (gc.exe)
+3791	Ground Control
 3801	Advent Rising
 3802	Advent Rising
 3803	Advent Rising
@@ -913,7 +913,7 @@
 3912	Sid Meier's Civilization III: Complete
 3921	Sid Meier's Pirates!
 3931	Valve Test App
-3932	Unknown / No Depot
+3932	Serious Sam 2
 3961	Shattered Union
 3971	Prey
 3972	Prey
@@ -924,7 +924,7 @@
 3992	Sid Meier's Civilization IV: Warlords
 3993	Sid Meier's Civilization IV: Warlords
 4001	Garry's Mod
-4011	Unknown / No Depot
+4011	Garry's Mod - Beta
 4101	Poker Superstars II / Poker Superstars II Demo
 4208	Race Internal Beta / Race Internal Beta Dedicated Server
 4209	Race Internal Beta / Race Internal Beta Dedicated Server
@@ -990,7 +990,7 @@
 4523	Full Spectrum Warrior
 4524	Full Spectrum Warrior
 4525	Full Spectrum Warrior
-4526	Unknown / No Depot
+4526	Unknown (FSW)
 4527	Full Spectrum Warrior
 4531	Full Spectrum Warrior: Ten Hammers
 4532	Full Spectrum Warrior: Ten Hammers
@@ -1013,8 +1013,8 @@
 4555	Titan Quest: Immortal Throne
 4556	Titan Quest: Immortal Throne
 4561	Company of Heroes - Legacy Edition / Company of Heroes: Opposing Fronts / Company of Heroes: Tales of Valor
-4562	Unknown / No Depot
-4563	Unknown / No Depot
+4562	Company of Heroes (localization)
+4563	Company of Heroes (localization)
 4564	Company of Heroes - Legacy Edition / Company of Heroes: Opposing Fronts / Company of Heroes: Tales of Valor
 4565	Company of Heroes - Legacy Edition / Company of Heroes: Opposing Fronts / Company of Heroes: Tales of Valor
 4566	Company of Heroes - Legacy Edition / Company of Heroes: Opposing Fronts / Company of Heroes: Tales of Valor
@@ -1052,10 +1052,10 @@
 4711	Medieval II: Total War Demo
 4731	OutRun 2006: Coast 2 Coast
 4741	Medieval: Total War
-4742	Unknown / No Depot
-4743	Unknown / No Depot
-4744	Unknown / No Depot
-4745	Unknown / No Depot
+4742	Medieval: Total War
+4743	Medieval: Total War
+4744	Medieval: Total War
+4745	Medieval: Total War
 4761	Rome: Total War
 4762	Rome: Total War
 4763	Rome: Total War
@@ -1089,7 +1089,7 @@
 4832	S.T.A.L.K.E.R.: Shadow of Chernobyl
 4833	S.T.A.L.K.E.R.: Shadow of Chernobyl
 4834	S.T.A.L.K.E.R.: Shadow of Chernobyl
-4841	Unknown / No Depot
+4841	Unknown (S.T.A.L.K.E.R.)
 4851	Cossacks: Back to War
 4852	Cossacks: Back to War
 4853	Cossacks: Back to War
@@ -1398,7 +1398,7 @@
 5304	Droplitz Trailer
 5305	Team Fortress 2: Meet the Spy (Russian)
 5306	Trine Trailer 3
-5307	Unknown / No Depot
+5307	Unknown (reslists)
 5309	Bionic Command Rearmed Trailer
 5310	Bionic Commando Trailer
 5311	Champions Online Teaser
@@ -1821,7 +1821,7 @@
 5797	Sniper Ghost Warrior Basic Tactics
 5798	Puzzle Agent Trailer
 5799	Front Mission Evolved E3 Trailer
-5800	Unknown / No Depot
+5800	City of Heroes Trailer
 5801	Front Mission Evolved Trailer 2
 5802	Moon Base Alpha Trailer
 5803	Darwinia_ESRB
@@ -1959,7 +1959,7 @@
 5945	MOH - Part 5
 5946	Lost Horizon Trailer
 5947	Airforte Preview
-5948	Unknown / No Depot
+5948	Unknown (reslists)
 5949	Haunted House Trailer 1
 5950	Haunted House Trailer 2
 5951	Shank Trailer
@@ -2033,8 +2033,8 @@
 6061	Star Wars: Battlefront 2 (Classic, 2005)
 6062	Star Wars: Battlefront 2 (Classic, 2005)
 6063	Star Wars: Battlefront 2 (Classic, 2005)
-6064	Unknown / No Depot
-6065	Unknown / No Depot
+6064	Star Wars: Battlefront 2 (data)
+6065	Star Wars: Battlefront 2 (data)
 6071	The Secret of Monkey Island
 6081	Thrillville: Off the Rails
 6082	Thrillville: Off the Rails
@@ -2060,7 +2060,7 @@
 6222	FlatOut
 6231	FlatOut Demo
 6241	Mashed
-6251	Unknown (ML tools)
+6251	Making History: The Calm & The Storm
 6252	Making History: The Calm & The Storm
 6261	Making History: The Calm & The Storm Demo
 6271	Ducati World Championship
@@ -2168,13 +2168,13 @@
 7061	Infernal
 7062	Infernal
 7063	Infernal
-7071	Unknown (game.exe)
-7072	Unknown / No Depot
-7073	Unknown / No Depot
+7071	Infernal
+7072	Infernal (data)
+7073	Infernal (data)
 7081	Infernal Demo
-7091	Unknown (tra.exe)
-7092	Unknown / No Depot
-7093	Unknown / No Depot
+7091	Tomb Raider Annverisary Beta
+7092	Tomb Raider Annverisary Beta
+7093	Tomb Raider Annverisary Beta
 7111	Jade Empire: Special Edition
 7112	Jade Empire: Special Edition
 7113	Jade Empire: Special Edition
@@ -2191,14 +2191,14 @@
 7201	TrackMania United Forever Beta
 7202	TrackMania United Forever
 7211	Runaway: A Road Adventure
-7212	Unknown / No Depot
+7212	Runaway (data)
 7213	Runaway: A Road Adventure
 7214	Runaway: A Road Adventure
 7221	Runaway 2: Dream of the Turtle
-7222	Unknown / No Depot
-7223	Unknown / No Depot
-7224	Unknown / No Depot
-7225	Unknown / No Depot
+7222	Runaway 2 (data)
+7223	Runaway 2 (data)
+7224	Runaway 2 (data)
+7225	Runaway 2 (data)
 7226	Runaway: The Dream of the Turtle
 7227	Runaway: The Dream of the Turtle
 7228	Runaway: The Dream of the Turtle
@@ -2265,16 +2265,16 @@
 7678	BioShock
 7679	BioShock
 7681	BioShock
-7682	Unknown / No Depot
-7683	Unknown / No Depot
-7684	Unknown / No Depot
-7685	Unknown / No Depot
-7686	Unknown / No Depot
-7687	Unknown / No Depot
-7688	Unknown / No Depot
-7689	Unknown / No Depot
+7682	BioShock
+7683	BioShock
+7684	BioShock
+7685	BioShock
+7686	BioShock
+7687	BioShock
+7688	BioShock
+7689	BioShock
 7691	BioShock
-7692	Unknown / No Depot
+7692	BioShock
 7701	BioShock
 7702	BioShock
 7703	BioShock
@@ -2284,13 +2284,13 @@
 7714	Bioshock Demo
 7721	Civilization V
 7722	Civilization V
-7723	Unknown / No Depot
-7724	Unknown / No Depot
-7725	Unknown / No Depot
-7726	Unknown / No Depot
-7727	Unknown / No Depot
-7728	Unknown / No Depot
-7729	Unknown / No Depot
+7723	Civilization V Beta
+7724	Civilization V Beta
+7725	Civilization V Beta
+7726	Civilization V Beta
+7727	Civilization V Beta
+7728	Civilization V Beta
+7729	Civilization V Beta
 7731	X-COM: Interceptor
 7741	NBA 2K9
 7751	NBA 2K9
@@ -2336,7 +2336,7 @@
 7907	The Movies
 7908	The Movies
 7911	The Movies: Stunts and Effects
-7912	Unknown / No Depot
+7912	The Movies (data)
 7921	The Movies Demo
 7931	Call of Duty 4: Modern Warfare
 7941	Call of Duty 4: Modern Warfare (2007) / Call of Duty 4: Modern Warfare
@@ -2388,12 +2388,12 @@
 8043	Championship Manager 2007
 8044	Championship Manager 2007
 8045	Championship Manager 2007
-8046	Unknown / No Depot
+8046	Championship Manager 2007 (data)
 8047	Championship Manager 2007
 8051	Cricket 07
-8052	Unknown / No Depot
-8053	Unknown / No Depot
-8054	Unknown / No Depot
+8052	Cricket 07 (data)
+8053	Cricket 07 (data)
+8054	Cricket 07 (data)
 8061	Championship Manager 2008
 8062	Championship Manager 2008
 8063	Championship Manager 2008
@@ -2416,13 +2416,13 @@
 8108	Conflict: Denied Ops
 8109	Conflict: Denied Ops
 8111	Conflict: Denied Ops
-8112	Unknown / No Depot
-8113	Unknown / No Depot
-8114	Unknown / No Depot
-8115	Unknown / No Depot
-8116	Unknown / No Depot
-8117	Unknown / No Depot
-8118	Unknown / No Depot
+8112	Conflict: Denied Ops (dedicated)
+8113	Conflict: Denied Ops (dedicated)
+8114	Conflict: Denied Ops (dedicated)
+8115	Conflict: Denied Ops (dedicated)
+8116	Conflict: Denied Ops (dedicated)
+8117	Conflict: Denied Ops (dedicated)
+8118	Conflict: Denied Ops (dedicated)
 8121	Conflict: Denied Ops
 8141	Tomb Raider: Underworld
 8151	Tomb Raider: Underworld Demo
@@ -2439,38 +2439,38 @@
 8202	Sam & Max 101: Culture Shock
 8203	Sam & Max 101: Culture Shock
 8204	Sam & Max 101: Culture Shock
-8205	Unknown / No Depot
-8206	Unknown / No Depot
+8205	Sam & Max 101 (data)
+8206	Sam & Max 101 (data)
 8211	Sam & Max 102: Situation: Comedy
 8212	Sam & Max 102: Situation: Comedy
 8213	Sam & Max 102: Situation: Comedy
 8214	Sam & Max 102: Situation: Comedy
-8215	Unknown / No Depot
-8216	Unknown / No Depot
+8215	Sam & Max 102 (data)
+8216	Sam & Max 102 (data)
 8221	Sam & Max 103: The Mole, the Mob and the Meatball
 8222	Sam & Max 103: The Mole, the Mob and the Meatball
 8223	Sam & Max 103: The Mole, the Mob and the Meatball
 8224	Sam & Max 103: The Mole, the Mob and the Meatball
-8225	Unknown / No Depot
-8226	Unknown / No Depot
+8225	Sam & Max 103 (data)
+8226	Sam & Max 103 (data)
 8231	Sam & Max 104: Abe Lincoln Must Die!
 8232	Sam & Max 104: Abe Lincoln Must Die!
 8233	Sam & Max 104: Abe Lincoln Must Die!
 8234	Sam & Max 104: Abe Lincoln Must Die!
-8235	Unknown / No Depot
-8236	Unknown / No Depot
+8235	Sam & Max 104 (data)
+8236	Sam & Max 104 (data)
 8241	Sam & Max 105: Reality 2.0
 8242	Sam & Max 105: Reality 2.0
 8243	Sam & Max 105: Reality 2.0
 8244	Sam & Max 105: Reality 2.0
-8245	Unknown / No Depot
-8246	Unknown / No Depot
+8245	Sam & Max 105 (data)
+8246	Sam & Max 105 (data)
 8251	Sam & Max 106: Bright Side of the Moon
 8252	Sam & Max 106: Bright Side of the Moon
 8253	Sam & Max 106: Bright Side of the Moon
 8254	Sam & Max 106: Bright Side of the Moon
-8255	Unknown / No Depot
-8256	Unknown / No Depot
+8255	Sam & Max 106 (data)
+8256	Sam & Max 106 (data)
 8261	Sam & Max 201: Ice Station Santa
 8262	Sam & Max 201: Ice Station Santa
 8272	Sam & Max 202: Moai Better Blues
@@ -2497,7 +2497,7 @@
 8401	Geometry Wars: Retro Evolved
 8411	Geometry Wars: Retro Evolved
 8501	EVE Online
-8502	Unknown / No Depot
+8502	EVE Online (data)
 8503	EVE Online
 8601	RACE 07 / RACE 07 Dedicated Server / Race Injection
 8602	RACE 07 / RACE 07 Dedicated Server / Race Injection
@@ -2512,7 +2512,7 @@
 8612	RACE 07
 8613	RACE 07
 8614	RACE 07
-8615	Unknown / No Depot
+8615	RACE 07 (data)
 8616	RACE 07
 8618	RACE 07
 8619	RACE 07 / RACE On / RACE 07: Andy Priaulx Crowne Plaza Raceway / GTR Evolution / STCC: The Game / STCC II / RACE 07 - Formula RaceRoom Add-On / GT Power Expansion / The Retro Expansion / The WTCC 2010 Pack / Race Injection
@@ -2532,8 +2532,8 @@
 8803	Sid Meier's Civilization IV: Beyond the Sword
 8804	Sid Meier's Civilization IV: Beyond the Sword
 8811	Civilization IV: Beyond the Sword
-8812	Unknown / No Depot
-8813	Unknown / No Depot
+8812	Civilization IV: Warlords (Mac)
+8813	Civilization IV: Beyond the Sword (Mac)
 8821	Sid Meier's Civilization IV: Beyond the Sword - Final Frontier Demo
 8841	Major League Baseball 2K9
 8851	BioShock 2
@@ -2607,11 +2607,11 @@
 9321	Dawn of War Demo
 9331	Dawn of War Winter Assault Demo
 9341	Company of Heroes
-9342	Unknown / No Depot
-9343	Unknown / No Depot
-9344	Unknown / No Depot
-9345	Unknown / No Depot
-9346	Unknown / No Depot
+9342	Company of Heroes (localization)
+9343	Company of Heroes (localization)
+9344	Company of Heroes (localization)
+9345	Company of Heroes (localization)
+9346	Company of Heroes (localization)
 9347	Company of Heroes: Opposing Fronts
 9348	Company of Heroes: Opposing Fronts
 9349	Company of Heroes: Opposing Fronts
@@ -2626,16 +2626,16 @@
 9359	Supreme Commander / Supreme Commander Editor
 9360	Supreme Commander Editor
 9361	Supreme Commander / Supreme Commander Editor
-9362	Unknown / No Depot
+9362	Supreme Commander (data)
 9363	Supreme Commander / Supreme Commander Editor
 9364	Supreme Commander / Supreme Commander Editor
 9371	Supreme Commander Editor
 9391	S.T.A.L.K.E.R.: Shadow of Chernobyl
-9392	Unknown / No Depot
-9393	Unknown / No Depot
-9394	Unknown / No Depot
-9395	Unknown / No Depot
-9396	Unknown / No Depot
+9392	S.T.A.L.K.E.R.: Clear Sky (localization)
+9393	S.T.A.L.K.E.R.: Clear Sky (localization)
+9394	S.T.A.L.K.E.R.: Clear Sky (localization)
+9395	S.T.A.L.K.E.R.: Clear Sky (localization)
+9396	S.T.A.L.K.E.R.: Clear Sky (localization)
 9401	Juiced 2: Hot Import Nights
 9402	Juiced 2: Hot Import Nights
 9403	Juiced 2: Hot Import Nights
@@ -2652,7 +2652,7 @@
 9429	Supreme Commander: Forged Alliance
 9430	Supreme Commander: Forged Alliance
 9431	Supreme Commander: Forged Alliance
-9432	Unknown / No Depot
+9432	Supreme Commander: Forged Alliance (data)
 9433	Supreme Commander: Forged Alliance
 9434	Supreme Commander: Forged Alliance
 9441	Warhammer 40,000: Dawn of War – Soulstorm Demo
@@ -2675,7 +2675,7 @@
 9471	Frontlines: Fuel of War
 9472	Frontlines: Fuel of War
 9473	Frontlines: Fuel of War
-9474	Unknown / No Depot
+9474	Frontlines: Fuel of War (data)
 9481	Saints Row 2
 9482	Saints Row 2
 9483	Saints Row 2
@@ -2688,12 +2688,12 @@
 9490	Saints Row 2
 9491	Saints Row 2
 9492	Saints Row 2
-9493	Unknown / No Depot
+9493	Saints Row 2 (data)
 9494	Saints Row 2
 9495	Saints Row 2
 9496	Saints Row 2
 9501	Gish
-9502	Unknown / No Depot
+9502	Gish (Mac)
 9511	Gish Demo
 9711	Desperados 2: Cooper’s Revenge
 9712	Desperados 2: Cooper’s Revenge
@@ -2708,19 +2708,19 @@
 9764	Act of War: High Treason
 9765	Act of War: High Treason
 9791	You Are Empty
-9792	Unknown / No Depot
-9793	Unknown / No Depot
+9792	You Are Empty (localization)
+9793	You Are Empty (localization)
 9801	Death to Spies
 9802	Death to Spies
 9811	The Witcher
-9812	Unknown / No Depot
-9813	Unknown / No Depot
-9814	Unknown / No Depot
-9815	Unknown / No Depot
-9816	Unknown / No Depot
-9817	Unknown / No Depot
-9818	Unknown / No Depot
-9819	Unknown / No Depot
+9812	The Witcher (localization)
+9813	The Witcher (localization)
+9814	The Witcher (localization)
+9815	The Witcher (localization)
+9816	The Witcher (localization)
+9817	The Witcher (localization)
+9818	The Witcher (localization)
+9819	The Witcher (localization)
 9841	Unknown (kb.exe)
 9851	Codename: Panzers - Cold War
 9852	Codename: Panzers - Cold War
@@ -2780,8 +2780,8 @@
 10152	Prototype
 10153	Prototype
 10154	Prototype
-10161	Unknown (ss.exe)
-10162	Unknown (redist)
+10161	Secret Service
+10162	Secret Service
 10171	Wolfenstein
 10172	Wolfenstein
 10173	Wolfenstein
@@ -2803,7 +2803,7 @@
 10195	Call of Duty: Modern Warfare 2 (2009) - Multiplayer
 10196	Call of Duty: Modern Warfare 2 (2009) - Multiplayer
 10201	Tarr Chronicles
-10202	Unknown / No Depot
+10202	Tarr Chronicles (localization)
 10211	Tarr Chronicles
 10221	Postal 3
 10222	Postal 3
@@ -2872,26 +2872,26 @@
 10571	Football Manager 2009 Demo
 10581	Empire: Total War
 10582	Empire: Total War (redist)
-10583	Unknown / No Depot
-10584	Unknown / No Depot
+10583	Empire: Total War (shared)
+10584	Empire: Total War (shared)
 10591	Football Manager 2009 Korean
-10611	Unknown / No Depot
+10611	Empire: Total War (data)
 10612	Empire: Total War
 10613	Empire: Total War (redist)
-10614	Unknown / No Depot
-10615	Unknown / No Depot
-10616	Unknown / No Depot
-10617	Unknown / No Depot
-10618	Unknown / No Depot
-10619	Unknown / No Depot
+10614	Empire: Total War (localization)
+10615	Empire: Total War (localization)
+10616	Empire: Total War (localization)
+10617	Empire: Total War (localization)
+10618	Empire: Total War (localization)
+10619	Empire: Total War (localization)
 10621	Empire: Total War Demo
 10622	Empire: Total War Demo
 10623	Empire: Total War Demo
 10624	Empire: Total War Demo
 10631	Football Manager Live
 10641	Empire: Total War Naval Demo
-10642	Unknown / No Depot
-10643	Unknown / No Depot
+10642	Empire: Total War Naval Demo (data)
+10643	Empire: Total War Naval Demo (data)
 10644	Empire: Total War Naval Demo
 10645	Empire: Total War Naval Demo
 10646	Empire: Total War Naval Demo
@@ -2922,18 +2922,18 @@
 11002	Loki Norse Demo
 11021	TrackMania Nations Forever
 11022	TrackMania Nations Forever
-11023	Unknown / No Depot
-11024	Unknown / No Depot
-11025	Unknown / No Depot
-11026	Unknown / No Depot
+11023	TrackMania Nations Forever (data)
+11024	TrackMania Nations Forever (data)
+11025	TrackMania Nations Forever (data)
+11026	TrackMania Nations Forever (data)
 11041	Sherlock Holmes: Nemesis
 11051	Dracula: Origin
 11061	Pro Cycling Manager Season 2008 / Pro Cycling Manager - Season 2008 Stage Editor
-11062	Unknown / No Depot
-11063	Unknown / No Depot
-11064	Unknown / No Depot
-11065	Unknown / No Depot
-11066	Unknown / No Depot
+11062	Pro Cycling Manager 2008 (data)
+11063	Pro Cycling Manager 2008 (data)
+11064	Pro Cycling Manager 2008 (data)
+11065	Pro Cycling Manager 2008 (data)
+11066	Pro Cycling Manager 2008 (data)
 11081	Sherlock Holmes: Nemesis Demo
 11091	Dracula: Origin Demo
 11121	Pro Cycling Manager Season 2009
@@ -2991,15 +2991,15 @@
 11422	Clive Barker's Jericho
 11423	Clive Barker's Jericho
 11431	Clive Barker's Jericho
-11432	Unknown / No Depot
-11433	Unknown / No Depot
+11432	Clive Barker's Jericho (data)
+11433	Clive Barker's Jericho (data)
 11441	DiRT
-11442	Unknown / No Depot
-11443	Unknown / No Depot
-11444	Unknown / No Depot
-11445	Unknown / No Depot
-11446	Unknown / No Depot
-11447	Unknown / No Depot
+11442	DiRT (data)
+11443	DiRT (data)
+11444	DiRT (data)
+11445	DiRT (data)
+11446	DiRT (data)
+11447	DiRT (data)
 11451	Overlord
 11452	Overlord
 11453	Overlord / Overlord: Raising Hell
@@ -3020,11 +3020,11 @@
 11485	Soldiers: Heroes of World War II - Enhanced Edition
 11486	Soldiers: Heroes of World War II - Enhanced Edition
 11491	Sensible Soccer 2006
-11492	Unknown / No Depot
-11493	Unknown / No Depot
-11494	Unknown / No Depot
-11495	Unknown / No Depot
-11496	Unknown / No Depot
+11492	Sensible Soccer 2006 (data)
+11493	Sensible Soccer 2006 (data)
+11494	Sensible Soccer 2006 (data)
+11495	Sensible Soccer 2006 (data)
+11496	Sensible Soccer 2006 (data)
 11501	ToCA Race Driver 3
 11511	The Great Escape (Colditz)
 11512	The Prisoner
@@ -3042,38 +3042,38 @@
 11565	Maelstrom
 11566	Maelstrom
 11571	LMA Manager 2007
-11572	Unknown / No Depot
-11573	Unknown / No Depot
-11574	Unknown / No Depot
-11575	Unknown / No Depot
-11576	Unknown / No Depot
+11572	LMA Manager 2007 (data)
+11573	LMA Manager 2007 (data)
+11574	LMA Manager 2007 (data)
+11575	LMA Manager 2007 (data)
+11576	LMA Manager 2007 (data)
 11581	Unknown (Game.exe)
-11582	Unknown / No Depot
-11583	Unknown / No Depot
-11584	Unknown / No Depot
-11585	Unknown / No Depot
-11586	Unknown / No Depot
+11582	Unknown (Game data)
+11583	Unknown (Game data)
+11584	Unknown (Game data)
+11585	Unknown (Game data)
+11586	Unknown (Game data)
 11591	Hospital Tycoon
-11601	Unknown / No Depot
+11601	Left 4 Dead (localization)
 11701	Lord of the Rings Online
-11702	Unknown / No Depot
-11703	Unknown / No Depot
-11704	Unknown / No Depot
-11705	Unknown / No Depot
-11706	Unknown / No Depot
-11707	Unknown / No Depot
-11708	Unknown / No Depot
-11709	Unknown / No Depot
-11711	Unknown / No Depot
-11712	Unknown / No Depot
-11713	Unknown / No Depot
+11702	Lord of the Rings Online (data)
+11703	Lord of the Rings Online (data)
+11704	Lord of the Rings Online (data)
+11705	Lord of the Rings Online (data)
+11706	Lord of the Rings Online (data)
+11707	Lord of the Rings Online (data)
+11708	Lord of the Rings Online (data)
+11709	Lord of the Rings Online (data)
+11711	Lord of the Rings Online (data)
+11712	Lord of the Rings Online (data)
+11713	Lord of the Rings Online (data)
 11714	Lord of the Rings Online
-11715	Unknown / No Depot
+11715	Lord of the Rings Online (data)
 11716	Lord of the Rings Online
 11721	Lord of the Rings Online
 11901	Lumines / Lumines Demo / Lumines: Advanced Pack
-11902	Unknown / No Depot
-11903	Unknown / No Depot
+11902	Lumines (data)
+11903	Lumines (data)
 11911	Lumines / Lumines: Advanced Pack
 12101	Grand Theft Auto III
 12102	Grand Theft Auto III
@@ -3124,10 +3124,10 @@
 12332	DarkStar One
 12333	DarkStar One
 12341	Jack Keane
-12351	Unknown (PanzerKiller.exe)
+12351	Panzer Killer
 12361	FlatOut: Ultimate Carnage Collector's Edition
 12362	FlatOut: Ultimate Carnage Collector's Edition
-12363	Unknown (launcher.exe)
+12363	FlatOut: Ultimate Carnage Collector's Edition
 12371	Jagged Alliance 2: Gold Pack
 12381	Jagged Alliance 2 Gold: Unfinished Business
 12391	Exodus from the Earth
@@ -3164,7 +3164,7 @@
 12651	Fetch It Again
 12661	Miss Popularity
 12671	Mission Runway
-12681	Unknown (SB6.exe)
+12681	SpongeBob SquarePants: Nighty Nightmare
 12691	Hunting Unlimited 2010
 12711	Overlord: Raising Hell
 12712	Overlord: Raising Hell
@@ -3178,9 +3178,9 @@
 12725	Turning Point: Fall of Liberty
 12726	Turning Point: Fall of Liberty
 12727	Turning Point: Fall of Liberty
-12728	Unknown / No Depot
-12729	Unknown / No Depot
-12741	Unknown / No Depot
+12728	Turning Point: Fall of Liberty
+12729	Turning Point: Fall of Liberty
+12741	Turning Point: Fall of Liberty
 12742	Turning Point: Fall of Liberty
 12743	Turning Point: Fall of Liberty
 12744	Turning Point: Fall of Liberty
@@ -3238,15 +3238,15 @@
 13005	Ninja Reflex: Steamworks Edition
 13006	Ninja Reflex: Steamworks Edition
 13101	America's Army
-13102	Unknown / No Depot
+13102	America's Army (data)
 13103	America's Army
 13121	America's Army 3
 13122	America's Army 3
 13123	America's Army 3 Beta
-13124	Unknown / No Depot
-13125	Unknown / No Depot
-13126	Unknown / No Depot
-13127	Unknown / No Depot
+13124	America's Army 3 (data)
+13125	America's Army 3 (data)
+13126	America's Army 3 (data)
+13127	America's Army 3 (data)
 13141	America's Army 3
 13161	America's Army 3
 13162	America's Army 3
@@ -3273,9 +3273,9 @@
 13233	Unreal Tournament 2004
 13234	Unreal Tournament 2004
 13235	Unreal Tournament 2004
-13236	Unknown / No Depot
-13237	Unknown / No Depot
-13238	Unknown / No Depot
+13236	Unreal Tournament 2004 (localization)
+13237	Unreal Tournament 2004 (localization)
+13238	Unreal Tournament 2004 (localization)
 13241	Unreal Tournament: Game of the Year Edition
 13251	Unreal Gold
 13252	Unreal Gold
@@ -3348,14 +3348,14 @@
 13701	Savage 2: A Tortured Soul
 13702	Savage 2: A Tortured Soul
 13901	Rise of Nations: Thrones and Patriots
-13902	Unknown / No Depot
-13903	Unknown / No Depot
-13904	Unknown / No Depot
-13905	Unknown / No Depot
-13906	Unknown / No Depot
-13907	Unknown / No Depot
-13908	Unknown / No Depot
-13909	Unknown / No Depot
+13902	Rise of Nations (data)
+13903	Rise of Nations (data)
+13904	Rise of Nations (data)
+13905	Rise of Nations (data)
+13906	Rise of Nations (data)
+13907	Rise of Nations (data)
+13908	Rise of Nations (data)
+13909	Rise of Nations (data)
 15001	Tom Clancy's Rainbow Six: Lockdown
 15002	Tom Clancy's Rainbow Six: Lockdown
 15003	Tom Clancy's Rainbow Six: Lockdown
@@ -3423,7 +3423,7 @@
 15202	Silent Hunter: Wolves of the Pacific / Silent Hunter: Wolves of the Pacific U-Boat Missions
 15203	Silent Hunter: Wolves of the Pacific / Silent Hunter: Wolves of the Pacific U-Boat Missions
 15211	Silent Hunter III
-15212	Unknown / No Depot
+15212	Silent Hunter III (data)
 15213	Silent Hunter III
 15221	Blazing Angels: Squadrons of WWII
 15231	Blazing Angels 2: Secret Missions of WWII
@@ -3495,12 +3495,12 @@
 15648	Warhammer® 40,000™: Dawn of War® II (Press Build)
 15649	Warhammer® 40,000™: Dawn of War® II (Press Build)
 15650	Warhammer® 40,000™: Dawn of War® II (Press Build)
-15651	Unknown / No Depot
-15652	Unknown / No Depot
-15653	Unknown / No Depot
-15654	Unknown / No Depot
-15655	Unknown / No Depot
-15656	Unknown / No Depot
+15651	Unknown / No Depot (no blob)
+15652	Unknown / No Depot (no blob)
+15653	Unknown / No Depot (no blob)
+15654	Unknown / No Depot (no blob)
+15655	Unknown / No Depot (no blob)
+15656	Unknown / No Depot (no blob)
 15661	Warhammer® 40,000™: Dawn of War® II - BETA
 15662	Warhammer® 40,000™: Dawn of War® II - BETA
 15663	Warhammer® 40,000™: Dawn of War® II - BETA
@@ -3544,7 +3544,7 @@
 15923	Luxor 2
 15924	Luxor 2
 15931	Luxor 3 / Luxor 3 Demo
-15932	Unknown / No Depot
+15932	Luxor 3 (Mac)
 15933	Luxor 3
 15941	The Office / The Office Demo
 15951	Reaxxion / Reaxxion Demo
@@ -3590,17 +3590,17 @@
 16301	Everyday Shooter
 16401	F.E.A.R. 2: Project Origin
 16402	F.E.A.R. 2: Project Origin
-16403	Unknown / No Depot
-16404	Unknown / No Depot
-16405	Unknown / No Depot
-16406	Unknown / No Depot
-16407	Unknown / No Depot
-16408	Unknown / No Depot
-16409	Unknown / No Depot
-16410	Unknown / No Depot
-16411	Unknown / No Depot
-16412	Unknown / No Depot
-16413	Unknown / No Depot
+16403	F.E.A.R. 2: Project Origin (data)
+16404	F.E.A.R. 2: Project Origin (localization)
+16405	F.E.A.R. 2: Project Origin (localization)
+16406	F.E.A.R. 2: Project Origin (localization)
+16407	F.E.A.R. 2: Project Origin (localization)
+16408	F.E.A.R. 2: Project Origin (localization)
+16409	F.E.A.R. 2: Project Origin (localization)
+16410	F.E.A.R. 2: Project Origin (data)
+16411	F.E.A.R. 2: Project Origin (localization)
+16412	F.E.A.R. 2: Project Origin (localization)
+16413	F.E.A.R. 2: Project Origin (localization)
 16421	F.E.A.R. 2: Project Origin Demo / F.E.A.R. 2: Project Origin Demo / F.E.A.R. 2: Project Origin Demo
 16422	F.E.A.R. 2: Project Origin Demo / F.E.A.R. 2: Project Origin Demo / F.E.A.R. 2: Project Origin Demo
 16423	F.E.A.R. 2: Project Origin Demo
@@ -3647,14 +3647,14 @@
 16816	Sid Meier's Civilization IV: Colonization / Sid Meier's Civilization IV: Colonization
 16831	Sid Meier's Civilization V SDK
 16841	Civilization V
-16842	Unknown / No Depot
-16843	Unknown / No Depot
-16844	Unknown / No Depot
-16845	Unknown / No Depot
-16846	Unknown / No Depot
-16847	Unknown / No Depot
-16848	Unknown / No Depot
-16849	Unknown / No Depot
+16842	Civilization V (data)
+16843	Civilization V (localization)
+16844	Civilization V (localization)
+16845	Civilization V (localization)
+16846	Civilization V (localization)
+16847	Civilization V (localization)
+16848	Civilization V (localization)
+16849	Civilization V (localization)
 16851	Civilization V
 16860	Sid Meier's Civilization V
 16861	Sid Meier's Civilization V
@@ -3670,8 +3670,8 @@
 16871	Sid Meier's Civilization V
 16880	Sid Meier's Civilization V
 16881	Sid Meier's Civilization V
-16890	Unknown / No Depot
-16891	Unknown / No Depot
+16890	Civilization V (data)
+16891	Civilization V (localization)
 16901	GROUND BRANCH
 17001	Global Agenda - Beta
 17011	Global Agenda
@@ -3698,12 +3698,12 @@
 17124	Children of the Nile: Alexandria
 17125	Children of the Nile: Alexandria
 17126	Children of the Nile: Alexandria
-17131	Unknown (CoTN.exe)
-17132	Unknown / No Depot
-17133	Unknown / No Depot
-17134	Unknown / No Depot
-17135	Unknown / No Depot
-17136	Unknown / No Depot
+17131	Children of the Nile (CoTN.exe)
+17132	Children of the Nile (localization)
+17133	Children of the Nile (localization)
+17134	Children of the Nile (localization)
+17135	Children of the Nile (localization)
+17136	Children of the Nile (localization)
 17141	Hinterland
 17161	Hinterland
 17162	Hinterland
@@ -3711,15 +3711,15 @@
 17181	Mosby's Confederacy
 17201	Unknown (redist)
 17202	F.E.A.R. 3
-17203	Unknown / No Depot
-17204	Unknown / No Depot
-17205	Unknown / No Depot
-17206	Unknown / No Depot
-17207	Unknown / No Depot
-17208	Unknown / No Depot
-17209	Unknown / No Depot
-17210	Unknown / No Depot
-17220	Unknown / No Depot
+17203	F.E.A.R. 3 (resources)
+17204	F.E.A.R. 3 (resources)
+17205	F.E.A.R. 3 (resources)
+17206	F.E.A.R. 3 (resources)
+17207	F.E.A.R. 3 (resources)
+17208	F.E.A.R. 3 (resources)
+17209	F.E.A.R. 3 (resources)
+17210	F.E.A.R. 3 (resources)
+17220	F.E.A.R. 3 (resources)
 17301	Crysis
 17302	Crysis
 17303	Crysis
@@ -3730,8 +3730,8 @@
 17308	Crysis
 17309	Crysis
 17331	Crysis Warhead
-17332	Unknown / No Depot
-17333	Unknown / No Depot
+17332	Crysis Warhead (data)
+17333	Crysis Warhead (data)
 17334	Crysis Warhead
 17335	Crysis Warhead
 17336	Crysis Warhead
@@ -3810,12 +3810,12 @@
 17489	Command & Conquer™ Red Alert™ 3
 17490	Command & Conquer™ Red Alert™ 3
 17491	Command & Conquer™ Red Alert™ 3
-17492	Unknown / No Depot
+17492	Command & Conquer Red Alert 3 (data)
 17501	Zombie Panic! Source
 17511	Age of Chivalry / Age of Chivalry Dedicated Server
 17522	Synergy / Synergy Dedicated Server
 17531	D.I.P.R.I.P. Warm Up / D.I.P.R.I.P. Dedicated Server
-17541	Unknown / No Depot
+17541	Calamity Fuse
 17551	Eternal Silence / Eternal Silence Dedicated Server
 17571	Pirates Vikings & Knights II
 17581	Dystopia / Dystopia Dedicated Server
@@ -3932,7 +3932,7 @@
 19094	Yard Sale Hidden Treasures Sunnyville
 19095	Yard Sale Hidden Treasures Sunnyville
 19096	Yard Sale Hidden Treasures Sunnyville
-19101	Unknown / No Depot
+19101	Unknown (css)
 19102	StoneLoops of Jurassica
 19103	StoneLoops of Jurassica
 19104	StoneLoops of Jurassica
@@ -3979,7 +3979,7 @@
 19905	Far Cry 2
 19906	Far Cry 2
 19911	Tom Clancy's Rainbow Six 2: Rogue Spear - Urban Operations
-19921	Unknown (Covert Operations)
+19921	Tom Clancy's Rainbow Six 2: Rogue Spear - Covert Operations
 19931	The Settlers: Rise of an Empire Gold Edition / The Settlers 6 - Gold Editor
 19932	The Settlers: Rise of an Empire Gold Edition
 19933	The Settlers: Rise of an Empire Gold Edition
@@ -3995,7 +3995,7 @@
 19994	Shaun White Snowboarding
 19995	Shaun White Snowboarding
 19996	Shaun White Snowboarding
-20101	Unknown (game.exe)
+20101	Farmer Simulator 2008
 20201	Galactic Bowling
 20401	Shattered Suns
 20501	Red Faction: Guerrilla Steam Edition
@@ -4029,11 +4029,11 @@
 20711	Mr. Robot / Mr. Robot Demo
 20821	Shatter
 20822	Shatter
-20823	Unknown / No Depot
-20824	Unknown / No Depot
-20825	Unknown / No Depot
-20826	Unknown / No Depot
-20827	Unknown / No Depot
+20823	Shatter (data)
+20824	Shatter (data)
+20825	Shatter (data)
+20826	Shatter (data)
+20827	Shatter (data)
 20828	Shatter Soundtrack
 20841	Rugby Challenge
 20901	The Witcher: Enhanced Edition
@@ -4053,9 +4053,9 @@
 20922	The Witcher 2: Assassins of Kings Enhanced Edition
 20932	The Witcher 2: Bonus Content
 20933	The Witcher 2: Bonus Content
-20934	Unknown / No Depot
-20935	Unknown / No Depot
-20936	Unknown / No Depot
+20934	The Witcher 2 (data)
+20935	The Witcher 2 (data)
+20936	The Witcher 2 (data)
 20937	The Witcher 2: Assassins of Kings Enhanced Edition
 20938	The Witcher 2: Assassins of Kings Enhanced Edition
 21001	LEGO® Batman™: The Videogame
@@ -4209,10 +4209,10 @@
 22207	Zeno Clash
 22208	Zeno Clash Models
 22209	Zeno Clash
-22211	Unknown / No Depot
+22211	Zeno Clash (data)
 22212	Zeno Clash
-22213	Unknown / No Depot
-22214	Unknown / No Depot
+22213	Zeno Clash (data)
+22214	Zeno Clash (data)
 22221	Zeno Clash Demo
 22222	Zeno Clash Demo
 22223	Zeno Clash Demo
@@ -4372,8 +4372,8 @@
 22704	Sacred 2: Fallen Angel / Sacred 2: Fallen Angel (EU)
 22705	Sacred 2: Fallen Angel / Sacred 2: Fallen Angel (EU)
 22706	Sacred 2: Fallen Angel / Sacred 2: Fallen Angel (EU)
-22801	Unknown (ISBN exe)
-22831	Unknown (ISBN exe)
+22801	Far Cry 2: Prima Official eGuide
+22831	Ghostbusters (eGuide): Prima Official eGuide
 23101	Buccaneer: The Pursuit of Infamy
 23111	Buccaneer: The Pursuit of Infamy Demo
 23121	Droplitz
@@ -4406,12 +4406,12 @@
 23351	Last Remnant - Demo 3
 23361	Final Fantasy XI
 23371	Yosumin
-23372	Unknown / No Depot
-23373	Unknown / No Depot
-23374	Unknown / No Depot
-23375	Unknown / No Depot
-23376	Unknown / No Depot
-23377	Unknown / No Depot
+23372	Final Fantasy XI (data)
+23373	Final Fantasy XI (data)
+23374	Final Fantasy XI (data)
+23375	Final Fantasy XI (data)
+23376	Final Fantasy XI (data)
+23377	Final Fantasy XI (data)
 23381	Gyromancer
 23382	Gyromancer
 23383	Gyromancer
@@ -4440,9 +4440,9 @@
 23462	Ceville
 23463	Ceville
 23471	Grand Ages: Rome - Demo
-23472	Unknown / No Depot
-23473	Unknown / No Depot
-23474	Unknown / No Depot
+23472	Grand Ages: Rome (localization)
+23473	Grand Ages: Rome (localization)
+23474	Grand Ages: Rome (localization)
 23481	Ceville - Demo
 23482	Ceville - Demo
 23483	Ceville - Demo
@@ -4506,8 +4506,8 @@
 24060	Train Simulator Classic
 24061	Train Simulator Classic
 24062	Train Simulator Classic
-24063	Unknown / No Depot
-24064	Unknown / No Depot
+24063	Train Simulator Classic (data)
+24064	Train Simulator Classic (data)
 24065	Train Simulator Classic
 24066	Train Simulator Classic
 24067	Train Simulator Classic
@@ -4595,7 +4595,7 @@
 24473	King Arthur: Collection
 24474	King Arthur: Collection
 24481	King Arthur II
-24482	Unknown / No Depot
+24482	King Arthur II (data)
 24483	King Arthur II - The Role-playing Wargame
 24484	King Arthur II - The Role-playing Wargame
 24485	King Arthur II - The Role-playing Wargame
@@ -4640,7 +4640,7 @@
 24762	BattleForge
 24763	BattleForge
 24764	BattleForge
-24765	Unknown / No Depot
+24765	SimCity 4 Deluxe (data)
 24766	SimCity 4 Deluxe
 24767	SimCity 4 Deluxe
 24781	SimCity 4 Deluxe
@@ -4651,7 +4651,7 @@
 24786	SimCity 4 Deluxe
 24787	SimCity 4 Deluxe
 24788	SimCity 4 Deluxe
-24789	Unknown / No Depot
+24789	SimCity 4 Deluxe (data)
 24791	Command & Conquer 3: Tiberium Wars™
 24792	Command & Conquer 3: Tiberium Wars™
 24793	Command & Conquer 3: Tiberium Wars™
@@ -4714,7 +4714,7 @@
 24865	Battlefield 2
 24866	Battlefield 2
 24867	Battlefield 2
-24868	Unknown / No Depot
+24868	Battlefield 2 (data)
 24869	Battlefield 2
 24871	Need for Speed: SHIFT
 24881	The Saboteur
@@ -4739,14 +4739,14 @@
 24938	Dragon Age: Origins / Dragon Age: Origins - Awakening
 24939	Dragon Age: Origins / Dragon Age: Origins - Awakening
 24941	Medal of Honor: Pacific Assault
-24942	Unknown / No Depot
-24943	Unknown / No Depot
-24944	Unknown / No Depot
-24945	Unknown / No Depot
-24946	Unknown / No Depot
-24947	Unknown / No Depot
-24948	Unknown / No Depot
-24949	Unknown / No Depot
+24942	Medal of Honor: Pacific Assault (data)
+24943	Medal of Honor: Pacific Assault (data)
+24944	Medal of Honor: Pacific Assault (data)
+24945	Medal of Honor: Pacific Assault (data)
+24946	Medal of Honor: Pacific Assault (data)
+24947	Medal of Honor: Pacific Assault (data)
+24948	Medal of Honor: Pacific Assault (data)
+24949	Medal of Honor: Pacific Assault (data)
 24951	Battlefield Bad Company 2 Beta
 24961	Battlefield: Bad Company™ 2
 24968	Battlefield: Bad Company 2
@@ -4857,7 +4857,7 @@
 26507	Cogs / Cogs Demo
 26508	Cogs / Cogs Demo
 26509	Cogs / Cogs Demo
-26510	Unknown / No Depot
+26510	Cogs (localization)
 26511	Cogs / Cogs Demo
 26512	Cogs
 26601	Retro/Grade
@@ -4926,11 +4926,11 @@
 28008	Kane & Lynch 2: Dog Days
 28009	Kane & Lynch 2: Dog Days
 28010	Kane & Lynch 2: Dog Days
-28011	Unknown / No Depot
-28012	Unknown / No Depot
-28013	Unknown / No Depot
-28014	Unknown / No Depot
-28015	Unknown / No Depot
+28011	Kane & Lynch 2 (data)
+28012	Kane & Lynch 2 (data)
+28013	Kane & Lynch 2 (data)
+28014	Kane & Lynch 2 (data)
+28015	Kane & Lynch 2 (data)
 28016	Kane & Lynch 2: Dog Days
 28017	Kane & Lynch 2: Dog Days
 28021	Kane & Lynch 2: Dog Days Demo
@@ -4942,19 +4942,19 @@
 28031	Kane & Lynch 2: Dog Days
 28032	Kane & Lynch 2: Dog Days
 28033	Kane & Lynch 2: Dog Days
-28034	Unknown / No Depot
-28035	Unknown / No Depot
-28036	Unknown / No Depot
-28037	Unknown / No Depot
-28038	Unknown / No Depot
+28034	Kane & Lynch 2 (data)
+28035	Kane & Lynch 2 (data)
+28036	Kane & Lynch 2 (data)
+28037	Kane & Lynch 2 (data)
+28038	Kane & Lynch 2 (data)
 28041	Kane & Lynch 2: Dog Days
 28042	Kane & Lynch 2: Dog Days
 28043	Kane & Lynch 2: Dog Days
-28044	Unknown / No Depot
-28045	Unknown / No Depot
-28046	Unknown / No Depot
-28047	Unknown / No Depot
-28048	Unknown / No Depot
+28044	Kane & Lynch 2 (data)
+28045	Kane & Lynch 2 (data)
+28046	Kane & Lynch 2 (data)
+28047	Kane & Lynch 2 (data)
+28048	Kane & Lynch 2 (data)
 28051	Deus Ex: Human Revolution
 28052	Deus Ex: Human Revolution
 28053	Deus Ex: Human Revolution
@@ -4964,34 +4964,34 @@
 28057	Deus Ex: Human Revolution
 28058	Deus Ex: Human Revolution
 28059	Deus Ex: Human Revolution
-28060	Unknown / No Depot
-28061	Unknown / No Depot
+28060	Deus Ex: Human Revolution (data)
+28061	Deus Ex: Human Revolution (data)
 28071	Deus Ex: Human Revolution
-28072	Unknown / No Depot
-28073	Unknown / No Depot
-28074	Unknown / No Depot
-28075	Unknown / No Depot
-28076	Unknown / No Depot
-28077	Unknown / No Depot
-28078	Unknown / No Depot
+28072	Deus Ex: Human Revolution (data)
+28073	Deus Ex: Human Revolution (data)
+28074	Deus Ex: Human Revolution (data)
+28075	Deus Ex: Human Revolution (data)
+28076	Deus Ex: Human Revolution (data)
+28077	Deus Ex: Human Revolution (data)
+28078	Deus Ex: Human Revolution (data)
 28081	Deus Ex: Human Revolution
 28082	Deus Ex: Human Revolution
-28083	Unknown / No Depot
-28084	Unknown / No Depot
-28085	Unknown / No Depot
-28086	Unknown / No Depot
-28087	Unknown / No Depot
-28088	Unknown / No Depot
-28089	Unknown / No Depot
+28083	Deus Ex: Human Revolution (data)
+28084	Deus Ex: Human Revolution (data)
+28085	Deus Ex: Human Revolution (data)
+28086	Deus Ex: Human Revolution (data)
+28087	Deus Ex: Human Revolution (data)
+28088	Deus Ex: Human Revolution (data)
+28089	Deus Ex: Human Revolution (data)
 28101	Deus Ex: Human Revolution
 28102	Deus Ex: Human Revolution (ML)
-28103	Unknown / No Depot
-28104	Unknown / No Depot
-28105	Unknown / No Depot
-28106	Unknown / No Depot
-28107	Unknown / No Depot
-28108	Unknown / No Depot
-28109	Unknown / No Depot
+28103	Deus Ex: Human Revolution (data)
+28104	Deus Ex: Human Revolution (data)
+28105	Deus Ex: Human Revolution (data)
+28106	Deus Ex: Human Revolution (data)
+28107	Deus Ex: Human Revolution (data)
+28108	Deus Ex: Human Revolution (data)
+28109	Deus Ex: Human Revolution (data)
 28111	Deus Ex Human Revolution Augmented Edition Bonus Content
 28112	Deus Ex Human Revolution Augmented Edition Bonus Content
 28113	Deus Ex Human Revolution Augmented Edition Bonus Content
@@ -5027,9 +5027,9 @@
 29551	City of Heroes
 29552	City of Heroes
 29553	City of Heroes
-29561	Unknown / No Depot
-29571	Unknown / No Depot
-29581	Unknown / No Depot
+29561	Guild Wars (data)
+29571	Guild Wars (data)
+29581	Guild Wars (data)
 29641	Aion / Aion Collectors Edition / Aion / Aion Collectors Edition
 29681	City of Heroes: Going Rogue / City of Heroes: Going Rogue EU
 29682	City of Heroes: Going Rogue
@@ -5039,7 +5039,7 @@
 29692	City of Heroes: Going Rogue EU
 29731	City of Heroes
 29732	City of Heroes
-29733	Unknown / No Depot
+29733	NCSoft Launcher (City of Heroes/Lineage)
 29801	Caster
 29802	Caster
 29901	Dark Sector
@@ -5094,11 +5094,11 @@
 31295	Back to the Future: Ep 1 - It's About Time
 31296	Back to the Future: Ep 1 - It's About Time
 31301	Tunnel Rats 1968
-31401	Unknown / No Depot
+31401	D.I.P.R.I.P. Warm Up
 31411	Zombie Driver / Zombie Driver
 31420	Zombie Driver
 31501	Coil
-31601	Unknown / No Depot
+31601	Smashball
 31701	Iron Grip: Warlord / Iron Grip: Warlord Dedicated Server
 31702	Iron Grip: Warlord / Iron Grip: Warlord Dedicated Server
 31703	Iron Grip: Warlord / Iron Grip: Warlord Dedicated Server
@@ -5166,7 +5166,7 @@
 32331	LEGOⓇ Indiana Jones™: The Original Adventures
 32332	LEGOⓇ Indiana Jones™: The Original Adventures
 32333	LEGOⓇ Indiana Jones™: The Original Adventures
-32334	Unknown / No Depot
+32334	LEGO Indiana Jones (data)
 32335	LEGOⓇ Indiana Jones™: The Original Adventures
 32336	LEGOⓇ Indiana Jones™: The Original Adventures
 32341	Loom
@@ -5202,13 +5202,13 @@
 32413	Lucidity
 32421	STAR WARS™: The Clone Wars - Republic Heroes™
 32431	STAR WARS™: The Force Unleashed™ Ultimate Sith Edition
-32432	Unknown / No Depot
+32432	Star Wars: The Force Unleashed (Mac)
 32433	STAR WARS™: The Force Unleashed™ Ultimate Sith Edition
 32434	STAR WARS™: The Force Unleashed™ Ultimate Sith Edition
 32441	LEGO® Star Wars™: The Complete Saga
 32451	LEGO® Indiana Jones™ 2: The Adventure Continues
 32461	Monkey Island 2: Special Edition
-32462	Unknown / No Depot
+32462	Monkey Island 2: Special Edition (data)
 32471	STAR WARS™ Empire at War: Gold Pack
 32472	STAR WARS™ Empire at War: Gold Pack
 32473	STAR WARS™ Empire at War: Gold Pack
@@ -5249,22 +5249,22 @@
 32809	The Lord of the Rings: War in the North
 32810	The Lord of the Rings: War in the North
 32811	The Lord of the Rings: War in the North
-32812	Unknown / No Depot
-32813	Unknown / No Depot
+32812	The Lord of the Rings: War in the North (data)
+32813	The Lord of the Rings: War in the North (data)
 32814	The Lord of the Rings: War in the North
 32815	The Lord of the Rings: War in the North
 32901	Restaurant Empire II
 32902	Restaurant Empire II
-32903	Unknown / No Depot
+32903	Restaurant Empire II (data)
 33001	Rise of Nations: Thrones and Patriots
-33002	Unknown / No Depot
-33003	Unknown / No Depot
-33004	Unknown / No Depot
-33005	Unknown / No Depot
-33006	Unknown / No Depot
-33007	Unknown / No Depot
-33008	Unknown / No Depot
-33009	Unknown / No Depot
+33002	Rise of Nations: Thrones and Patriots (data)
+33003	Rise of Nations: Thrones and Patriots (data)
+33004	Rise of Nations: Thrones and Patriots (data)
+33005	Rise of Nations: Thrones and Patriots (data)
+33006	Rise of Nations: Thrones and Patriots (data)
+33007	Rise of Nations: Thrones and Patriots (data)
+33008	Rise of Nations: Thrones and Patriots (data)
+33009	Rise of Nations: Thrones and Patriots (data)
 33101	Alien Shooter
 33102	Alien Shooter
 33111	Alien Shooter: Revisited
@@ -5282,8 +5282,8 @@
 33191	Zombie Shooter 2 - Demo
 33192	Zombie Shooter 2
 33201	Dog Whisperer
-33202	Unknown / No Depot
-33203	Unknown / No Depot
+33202	Dog Whisperer (data)
+33203	Dog Whisperer (data)
 33211	Dawn of Discovery / Dawn of Discovery - Venice
 33212	Dawn of Discovery - Venice
 33213	Dawn of Discovery - Venice
@@ -5325,8 +5325,8 @@
 33271	Cloudy with a Chance of Meatballs
 33272	Cloudy with a Chance of Meatballs
 33273	Cloudy with a Chance of Meatballs
-33274	Unknown / No Depot
-33275	Unknown / No Depot
+33274	Cloudy with a Chance of Meatballs (data)
+33275	Cloudy with a Chance of Meatballs (data)
 33281	James Cameron’s Avatar™: The Game
 33282	James Cameron’s Avatar™: The Game
 33283	James Cameron’s Avatar™: The Game
@@ -5337,24 +5337,24 @@
 33301	World in Conflict
 33311	R.U.S.E. Demo
 33312	R.U.S.E. Demo
-33313	Unknown / No Depot
-33314	Unknown / No Depot
-33315	Unknown / No Depot
-33316	Unknown / No Depot
-33317	Unknown / No Depot
-33318	Unknown / No Depot
-33319	Unknown / No Depot
+33313	R.U.S.E. (localization)
+33314	R.U.S.E. (localization)
+33315	R.U.S.E. (localization)
+33316	R.U.S.E. (localization)
+33317	R.U.S.E. (localization)
+33318	R.U.S.E. (localization)
+33319	R.U.S.E. (localization)
 33321	Prince of Persia: The Forgotten Sands
 33322	Prince of Persia: The Forgotten Sands
 33331	R.U.S.E.
-33332	Unknown / No Depot
-33333	Unknown / No Depot
-33334	Unknown / No Depot
-33335	Unknown / No Depot
-33336	Unknown / No Depot
-33337	Unknown / No Depot
-33338	Unknown / No Depot
-33339	Unknown / No Depot
+33332	R.U.S.E. (data)
+33333	R.U.S.E. (data)
+33334	R.U.S.E. (data)
+33335	R.U.S.E. (data)
+33336	R.U.S.E. (data)
+33337	R.U.S.E. (data)
+33338	R.U.S.E. (data)
+33339	R.U.S.E. (data)
 33351	Anno 1404: Venice
 33352	Anno 1404: Venice
 33353	Anno 1404: Venice
@@ -5369,13 +5369,13 @@
 33368	Assassin's Creed II
 33369	Assassin's Creed II
 33372	Tom Clancy's Splinter Cell: Conviction
-33373	Unknown / No Depot
-33374	Unknown / No Depot
-33375	Unknown / No Depot
-33376	Unknown / No Depot
-33377	Unknown / No Depot
-33378	Unknown / No Depot
-33379	Unknown / No Depot
+33373	Splinter Cell: Conviction (data)
+33374	Splinter Cell: Conviction (data)
+33375	Splinter Cell: Conviction (data)
+33376	Splinter Cell: Conviction (data)
+33377	Splinter Cell: Conviction (data)
+33378	Splinter Cell: Conviction (data)
+33379	Splinter Cell: Conviction (data)
 33391	Zeit²
 33401	Zeit² Demo
 33411	Zeit 2
@@ -5416,9 +5416,9 @@
 33623	Crash Time III
 33631	Crash Time III - Demo
 33641	Rome: Total War
-33642	Unknown / No Depot
-33643	Unknown / No Depot
-33644	Unknown / No Depot
+33642	Rome: Total War (localization)
+33643	Rome: Total War (localization)
+33644	Rome: Total War (localization)
 33651	Puzzler World
 33661	Ziro
 33671	Disciples III: Renaissance
@@ -5489,43 +5489,43 @@
 34058	Napoleon: Total War Demo
 34059	Napoleon: Total War Demo
 34071	Napoleon: Total War
-34072	Unknown / No Depot
+34072	Napoleon: Total War (data)
 34073	Napoleon: Total War
-34075	Unknown / No Depot
-34076	Unknown / No Depot
-34077	Unknown / No Depot
-34078	Unknown / No Depot
-34079	Unknown / No Depot
-34080	Unknown / No Depot
-34081	Unknown / No Depot
-34082	Unknown / No Depot
+34075	Napoleon: Total War (localization)
+34076	Napoleon: Total War (localization)
+34077	Napoleon: Total War (localization)
+34078	Napoleon: Total War (localization)
+34079	Napoleon: Total War (localization)
+34080	Napoleon: Total War (localization)
+34081	Napoleon: Total War (localization)
+34082	Napoleon: Total War (localization)
 34091	Aliens vs Predator (2010)
-34092	Unknown / No Depot
-34093	Unknown / No Depot
-34094	Unknown / No Depot
-34095	Unknown / No Depot
-34096	Unknown / No Depot
-34097	Unknown / No Depot
-34098	Unknown / No Depot
-34099	Unknown / No Depot
+34092	Aliens vs Predator (data)
+34093	Aliens vs Predator (data)
+34094	Aliens vs Predator (data)
+34095	Aliens vs Predator (data)
+34096	Aliens vs Predator (data)
+34097	Aliens vs Predator (data)
+34098	Aliens vs Predator (data)
+34099	Aliens vs Predator (data)
 34111	Football Manager 2010 Demo
 34121	Aliens vs Predator Dedicated Server
 34131	Aliens vs Predator (2010)
-34132	Unknown / No Depot
-34133	Unknown / No Depot
-34134	Unknown / No Depot
-34135	Unknown / No Depot
-34136	Unknown / No Depot
+34132	Aliens vs Predator (data)
+34133	Aliens vs Predator (data)
+34134	Aliens vs Predator (data)
+34135	Aliens vs Predator (data)
+34136	Aliens vs Predator (data)
 34151	Napoleon: Total War
-34152	Unknown / No Depot
-34155	Unknown / No Depot
-34156	Unknown / No Depot
-34157	Unknown / No Depot
-34158	Unknown / No Depot
-34159	Unknown / No Depot
-34160	Unknown / No Depot
-34161	Unknown / No Depot
-34162	Unknown / No Depot
+34152	Napoleon: Total War (data)
+34155	Napoleon: Total War (localization)
+34156	Napoleon: Total War (localization)
+34157	Napoleon: Total War (localization)
+34158	Napoleon: Total War (localization)
+34159	Napoleon: Total War (localization)
+34160	Napoleon: Total War (localization)
+34161	Napoleon: Total War (localization)
+34162	Napoleon: Total War (localization)
 34181	Vancouver 2010: The Official Video Game of the Olympic Winter Games
 34191	Sonic and SEGA All Stars Racing
 34201	Aliens vs Predator Demo
@@ -5538,14 +5538,14 @@
 34208	Aliens vs Predator Demo
 34209	Aliens vs Predator Demo
 34211	Aliens vs Predator (2010)
-34212	Unknown / No Depot
-34213	Unknown / No Depot
-34214	Unknown / No Depot
-34215	Unknown / No Depot
-34216	Unknown / No Depot
-34217	Unknown / No Depot
-34218	Unknown / No Depot
-34219	Unknown / No Depot
+34212	Aliens vs Predator (data)
+34213	Aliens vs Predator (data)
+34214	Aliens vs Predator (data)
+34215	Aliens vs Predator (data)
+34216	Aliens vs Predator (data)
+34217	Aliens vs Predator (data)
+34218	Aliens vs Predator (data)
+34219	Aliens vs Predator (data)
 34221	Football Manager 2011
 34222	Football Manager 2011
 34223	Football Manager 2011
@@ -5584,16 +5584,16 @@
 34288	SEGA Mega Drive & Genesis Classics
 34289	SEGA Mega Drive & Genesis Classics
 34291	Napoleon: Total War
-34292	Unknown / No Depot
+34292	Napoleon: Total War (data)
 34293	Napoleon: Total War
-34295	Unknown / No Depot
-34296	Unknown / No Depot
-34297	Unknown / No Depot
-34298	Unknown / No Depot
-34299	Unknown / No Depot
-34300	Unknown / No Depot
-34301	Unknown / No Depot
-34302	Unknown / No Depot
+34295	Napoleon: Total War (data)
+34296	Napoleon: Total War (localization)
+34297	Napoleon: Total War (localization)
+34298	Napoleon: Total War (localization)
+34299	Napoleon: Total War (localization)
+34300	Napoleon: Total War (localization)
+34301	Napoleon: Total War (localization)
+34302	Napoleon: Total War (localization)
 34310	SEGA Mega Drive & Genesis Classics
 34311	SEGA Mega Drive & Genesis Classics
 34312	SEGA Mega Drive & Genesis Classics
@@ -5629,9 +5629,9 @@
 34361	Total War: SHOGUN 2 Demo
 34362	Total War: SHOGUN 2
 34371	Total War: Shogun 2
-34372	Unknown / No Depot
+34372	Total War: Shogun 2 (data)
 34373	Total War: Shogun 2
-34374	Unknown / No Depot
+34374	Total War: Shogun 2 (localization)
 34391	Football Manager 2011 Demo
 34401	NecroVisioN - Demo
 34411	Death to Spies: Moment of Truth
@@ -5720,11 +5720,11 @@
 34921	Razor2: Hidden Skies
 34931	Razor2: Hidden Skies - Demo
 35001	Mini Ninjas
-35002	Unknown / No Depot
-35003	Unknown / No Depot
-35004	Unknown / No Depot
-35005	Unknown / No Depot
-35006	Unknown / No Depot
+35002	Mini Ninjas (localization)
+35003	Mini Ninjas (localization)
+35004	Mini Ninjas (localization)
+35005	Mini Ninjas (localization)
+35006	Mini Ninjas (localization)
 35011	Batman: Arkham Asylum / Batman: Arkham Asylum - License Revoking Tool
 35012	Batman: Arkham Asylum
 35013	Batman: Arkham Asylum
@@ -5784,10 +5784,10 @@
 35144	Batman: Arkham Asylum GOTY Edition
 35145	Batman: Arkham Asylum GOTY Edition
 35201	Unknown (main.exe)
-35202	Unknown / No Depot
-35203	Unknown / No Depot
-35204	Unknown / No Depot
-35205	Unknown / No Depot
+35202	Unknown (assets)
+35203	Unknown (assets)
+35204	Unknown (assets)
+35205	Unknown (assets)
 35301	Warfare
 35311	Clutch
 35321	Insane 2
@@ -5802,7 +5802,7 @@
 35421	Killing Floor Mod: Defence Alliance 2
 35422	Killing Floor Mod: Defence Alliance 2
 35428	Killing Floor
-35431	Unknown / No Depot
+35431	Red Orchestra 2 (data)
 35451	Rising Storm/Red Orchestra 2 Multiplayer / Red Orchestra 2/Rising Storm Alpha Community Maps / Red Orchestra 2/Rising Storm Beta Community Maps
 35453	Red Orchestra 2 - Dedicated Server
 35455	Rising Storm/Red Orchestra 2 Multiplayer / Red Orchestra 2/Rising Storm Alpha Community Maps / Red Orchestra 2/Rising Storm Beta Community Maps
@@ -5838,11 +5838,11 @@
 35497	The Ball Demo
 35498	The Ball Demo
 35501	Cities XL - Limited Edition / Cities XL
-35502	Unknown / No Depot
-35503	Unknown / No Depot
+35502	Cities XL (data)
+35503	Cities XL (data)
 35521	Cities XL
-35522	Unknown / No Depot
-35523	Unknown / No Depot
+35522	Cities XL (data)
+35523	Cities XL (data)
 35601	Big Brain Wolf
 35602	Big Brain Wolf
 35603	Big Brain Wolf
@@ -5909,20 +5909,20 @@
 36715	The Scourge Project: Episode 1 and 2 Demo
 36716	The Scourge Project: Episode 1 and 2 Demo
 36721	Scourge: Outbreak
-36722	Unknown / No Depot
-36723	Unknown / No Depot
-36724	Unknown / No Depot
-36725	Unknown / No Depot
-36726	Unknown / No Depot
-36727	Unknown / No Depot
-36728	Unknown / No Depot
-36729	Unknown / No Depot
+36722	Scourge: Outbreak (data)
+36723	Scourge: Outbreak (data)
+36724	Scourge: Outbreak (data)
+36725	Scourge: Outbreak (data)
+36726	Scourge: Outbreak (data)
+36727	Scourge: Outbreak (data)
+36728	Scourge: Outbreak (data)
+36729	Scourge: Outbreak (data)
 36901	Angle of Attack
-36902	Unknown / No Depot
+36902	Angle of Attack (data)
 36911	All Aspect Warfare
 36921	All Aspect Warfare - Demo
 36931	Angle of Attack - Demo
-36932	Unknown / No Depot
+36932	All Aspect Warfare (data)
 37001	The Void
 37002	The Void
 37011	Ninja Blade
@@ -6090,8 +6090,8 @@
 39115	Season of Mystery : The Cherry Blossom Murders
 39116	Season of Mystery : The Cherry Blossom Murders
 39121	RIFT
-39122	Unknown / No Depot
-39123	Unknown / No Depot
+39122	RIFT (data)
+39123	RIFT (data)
 39131	Season of Mystery: The Cherry Blossom Murders Demo
 39132	Season of Mystery: The Cherry Blossom Murders Demo
 39133	Season of Mystery: The Cherry Blossom Murders Demo
@@ -6129,13 +6129,13 @@
 39206	Dungeon Siege 2
 39211	FINAL FANTASY XIV Online / FINAL FANTASY XIV Online Free Trial
 39221	Dungeon Siege III
-39222	Unknown / No Depot
-39223	Unknown / No Depot
-39224	Unknown / No Depot
-39225	Unknown / No Depot
-39226	Unknown / No Depot
-39227	Unknown / No Depot
-39228	Unknown / No Depot
+39222	Dungeon Siege III (data)
+39223	Dungeon Siege III (data)
+39224	Dungeon Siege III (data)
+39225	Dungeon Siege III (data)
+39226	Dungeon Siege III (data)
+39227	Dungeon Siege III (data)
+39228	Dungeon Siege III (data)
 39231	Dungeon Siege III Demo
 39232	Dungeon Siege III Demo
 39233	Dungeon Siege III Demo
@@ -6146,13 +6146,13 @@
 39238	Dungeon Siege III Demo
 39239	Dungeon Siege III Demo
 39241	Dungeon Siege III
-39242	Unknown / No Depot
-39243	Unknown / No Depot
-39244	Unknown / No Depot
-39245	Unknown / No Depot
-39246	Unknown / No Depot
-39247	Unknown / No Depot
-39248	Unknown / No Depot
+39242	Dungeon Siege III (data)
+39243	Dungeon Siege III (data)
+39244	Dungeon Siege III (data)
+39245	Dungeon Siege III (data)
+39246	Dungeon Siege III (data)
+39247	Dungeon Siege III (data)
+39248	Dungeon Siege III (data)
 39270	Dungeon Siege III
 39271	Dungeon Siege III
 39272	Dungeon Siege III
@@ -6274,7 +6274,7 @@
 39811	Nation Red Demo
 39901	Coniclysm
 40001	Fallen Earth
-40002	Unknown / No Depot
+40002	Fallen Earth (data)
 40102	Supreme Commander 2
 40103	Supreme Commander 2
 40104	Supreme Commander 2
@@ -6288,9 +6288,9 @@
 40118	Supreme Commander 2
 40119	Supreme Commander 2
 40121	Supreme Commander 2 Beta
-40122	Unknown / No Depot
+40122	Supreme Commander 2 (Mac)
 40125	Supreme Commander 2
-40130	Unknown / No Depot
+40130	Supreme Commander 2 (data)
 40135	Supreme Commander 2
 40136	Supreme Commander 2
 40141	Supreme Commander 2 - Demo
@@ -6437,7 +6437,7 @@
 41061	Serious Sam Classic: The Second Encounter
 41071	Serious Sam 3: BFE
 41072	Serious Sam 3: BFE
-41073	Unknown / No Depot
+41073	Serious Sam 3 (placeholder)
 41074	Serious Sam 3: BFE
 41075	Serious Sam 3: BFE / Serious Sam 3 Dedicated Server
 41076	Serious Sam 3: BFE / Serious Sam 3 Dedicated Server
@@ -6497,8 +6497,8 @@
 41748	Cargo! - The quest for gravity
 41749	Cargo! - The quest for gravity
 41751	The Rockin' Dead
-41752	Unknown / No Depot
-41753	Unknown / No Depot
+41752	The Rockin' Dead (localization)
+41753	The Rockin' Dead (localization)
 41761	Cargo! - The quest for gravity Demo
 41762	Cargo! - The quest for gravity Demo
 41763	Cargo! - The quest for gravity Demo
@@ -6524,13 +6524,13 @@
 41901	The Bard's Tale
 42002	Trino
 42003	Trino
-42101	Unknown (lag.exe)
-42102	Unknown (lag.exe)
-42103	Unknown (lag.exe)
-42104	Unknown (lag.exe)
-42105	Unknown (lag.exe)
-42106	Unknown (lag.exe)
-42107	Unknown (lag.exe)
+42101	Lead and Gold - Gangs of the Wild West (Diesel data)
+42102	Lead and Gold - Gangs of the Wild West (Diesel data)
+42103	Lead and Gold - Gangs of the Wild West (Diesel data)
+42104	Lead and Gold - Gangs of the Wild West (Diesel data)
+42105	Lead and Gold - Gangs of the Wild West (Diesel data)
+42106	Lead and Gold - Gangs of the Wild West (Diesel data)
+42107	Lead and Gold - Gangs of the Wild West (Diesel data)
 42121	Lead and Gold - Gangs of the Wild West
 42122	Lead and Gold - Gangs of the Wild West
 42123	Lead and Gold - Gangs of the Wild West
@@ -6539,14 +6539,14 @@
 42126	Lead and Gold - Gangs of the Wild West
 42127	Lead and Gold - Gangs of the Wild West
 42141	Hamilton's Great Adventure
-42142	Unknown / No Depot
-42143	Unknown / No Depot
-42144	Unknown / No Depot
-42145	Unknown / No Depot
-42146	Unknown / No Depot
-42147	Unknown / No Depot
+42142	Hamilton's Great Adventure (data)
+42143	Hamilton's Great Adventure (data)
+42144	Hamilton's Great Adventure (data)
+42145	Hamilton's Great Adventure (data)
+42146	Hamilton's Great Adventure (data)
+42147	Hamilton's Great Adventure (data)
 42148	Hamilton's Great Adventure
-42151	Unknown (scream.exe)
+42151	Lead and Gold - Gangs of the Wild West (Diesel data)
 42161	War of the Roses
 42171	Krater
 42191	Hamilton's Great Adventure Demo
@@ -6569,10 +6569,10 @@
 42502	Dogfighter Demo
 42601	Call of Duty: Modern Warfare 2
 42602	Call of Duty: Modern Warfare 2
-42603	Unknown / No Depot
-42611	Unknown / No Depot
+42603	Call of Duty: Modern Warfare 2 (localization)
+42611	Call of Duty: Modern Warfare 2 (data)
 42621	Call of Duty: United Offensive
-42631	Unknown / No Depot
+42631	Call of Duty: United Offensive (data)
 42641	Blur
 42642	Blur
 42643	Blur
@@ -6604,7 +6604,7 @@
 42689	Call of Duty®: Modern Warfare® 3 (2011) / Call of Duty®: Modern Warfare® 3 (2011) - Multiplayer / Call of Duty: Modern Warfare 3 - Dedicated Server
 42691	Call of Duty®: Modern Warfare® 3 (2011) - Multiplayer
 42692	Call of Duty®: Modern Warfare® 3 (2011) / Call of Duty®: Modern Warfare® 3 (2011) - Multiplayer / Call of Duty: Modern Warfare 3 - Dedicated Server
-42693	Unknown / No Depot
+42693	Call of Duty: Modern Warfare 3 (localization)
 42695	Call of Duty®: Modern Warfare® 3 (2011) - Multiplayer
 42696	Call of Duty®: Modern Warfare® 3 (2011) - Multiplayer
 42697	Call of Duty®: Modern Warfare® 3 (2011) - Multiplayer
@@ -6636,8 +6636,8 @@
 42741	Call of Duty Black Ops - Mod Tools (BETA)
 42751	Call of Duty: Modern Warfare 3 - Dedicated Server
 42801	East India Company: Privateer
-42802	Unknown / No Depot
-42803	Unknown / No Depot
+42802	East India Company: Privateer (data)
+42803	East India Company: Privateer (data)
 42811	For The Glory
 42821	East India Company: Battle of Trafalgar
 42822	East India Company: Battle of Trafalgar
@@ -6667,9 +6667,9 @@
 42911	Magicka
 42912	Magicka
 42913	Magicka
-42915	Unknown / No Depot
-42917	Unknown / No Depot
-42918	Unknown / No Depot
+42915	Magicka (data)
+42917	Magicka (data)
+42918	Magicka (data)
 42921	The Kings' Crusade
 42922	The Kings' Crusade
 42923	The Kings' Crusade
@@ -6693,7 +6693,7 @@
 42966	Victoria II
 42967	Victoria II
 42968	Victoria II
-42971	Unknown (v2demo.exe)
+42971	Victoria II (data)
 42981	Victoria: Revolutions
 42992	Sword of the Stars II: Enhanced Edition
 43001	Front Mission Evolved
@@ -6721,7 +6721,7 @@
 43114	Metro 2033
 43115	Metro 2033
 43116	Metro 2033
-43117	Unknown / No Depot
+43117	Metro 2033 (data)
 43191	The Haunted: Hells Reach
 43192	The Haunted: Hells Reach
 43193	The Haunted: Hells Reach
@@ -6731,7 +6731,7 @@
 43211	The Haunted: Hells Reach Dedicated Server
 43501	M.U.D. TV
 43502	M.U.D. TV
-43503	Unknown / No Depot
+43503	M.U.D. TV (data)
 43504	M.U.D. TV
 43601	Nancy Drew: Warnings at Waverly Academy
 43801	Death Tank
@@ -6756,12 +6756,12 @@
 44661	The Retro Expansion / Race Injection
 44671	The WTCC 2010 Pack / Race Injection
 44681	Race Injection
-44682	Unknown / No Depot
+44682	Race Injection (data)
 44683	Race Injection
-44684	Unknown / No Depot
+44684	Race Injection (data)
 44701	RACE 07 Dedicated Server Beta
 44702	RACE 07 Dedicated Server Beta
-44711	Unknown / No Depot
+44711	Race Injection (data)
 45001	Sol Survivor
 45011	Sol Survivor Demo
 45101	Secret of the Magic Crystal
@@ -6946,10 +6946,10 @@
 46742	World Basketball Manager 2010
 46743	World Basketball Manager 2010
 46744	World Basketball Manager 2010
-46745	Unknown (uninstaller)
+46745	World Basketball Manager 2010 (uninstall)
 46746	World Basketball Manager 2010
 46747	World Basketball Manager 2010
-46748	Unknown (uninstaller)
+46748	World Basketball Manager 2010 (uninstall)
 46749	World Basketball Manager 2010
 46751	Dark Fall: Lost Souls
 46761	Ironclads: Schleswig War 1864
@@ -6998,9 +6998,9 @@
 47551	Dig Dug
 47561	PAC-MAN Pizza Parlor
 47571	Mishap 2: An Intentional Haunting
-47572	Unknown / No Depot
+47572	Mishap 2 (data)
 47573	Mishap 2: An Intentional Haunting
-47574	Unknown / No Depot
+47574	Mishap 2 (Mac)
 47701	Command & Conquer™ 4 Tiberian Twilight
 47702	Command & Conquer™ 4 Tiberian Twilight
 47703	Command & Conquer™ 4 Tiberian Twilight
@@ -7017,7 +7017,7 @@
 47736	Dragon Age: Origins - Awakening
 47737	Dragon Age: Origins - Awakening
 47738	Dragon Age: Origins - Awakening
-47739	Unknown / No Depot
+47739	Dragon Age: Origins - Awakening
 47740	Dragon Age: Origins - Awakening
 47761	Mass Effect 2 Demo
 47762	Mass Effect 2 Demo
@@ -7242,94 +7242,94 @@
 50156	Mafia II (Classic)
 50157	Mafia II (Classic)
 50161	Mafia II
-50162	Unknown / No Depot
-50163	Unknown / No Depot
-50164	Unknown / No Depot
-50165	Unknown / No Depot
-50166	Unknown / No Depot
-50167	Unknown / No Depot
-50168	Unknown / No Depot
-50169	Unknown / No Depot
-50171	Unknown / No Depot
-50172	Unknown / No Depot
-50173	Unknown / No Depot
+50162	Mafia II (data)
+50163	Mafia II (data)
+50164	Mafia II (data)
+50165	Mafia II (data)
+50166	Mafia II (data)
+50167	Mafia II (pc data)
+50168	Mafia II (pc data)
+50169	Mafia II (pc data)
+50171	Mafia II (pc data)
+50172	Mafia II (pc data)
+50173	Mafia II (pc data)
 50174	Mafia II
-50175	Unknown / No Depot
-50176	Unknown / No Depot
-50177	Unknown / No Depot
-50178	Unknown / No Depot
-50179	Unknown / No Depot
-50181	Unknown / No Depot
-50182	Unknown / No Depot
-50183	Unknown / No Depot
+50175	Mafia II (pc data)
+50176	Mafia II (pc data)
+50177	Mafia II (pc data)
+50178	Mafia II (pc data)
+50179	Mafia II (pc data)
+50181	Mafia II (pc data)
+50182	Mafia II (pc data)
+50183	Mafia II (pc data)
 50184	Mafia II
-50185	Unknown / No Depot
-50186	Unknown / No Depot
-50187	Unknown / No Depot
-50188	Unknown / No Depot
-50189	Unknown / No Depot
-50191	Unknown / No Depot
-50192	Unknown / No Depot
-50193	Unknown / No Depot
+50185	Mafia II (pc data)
+50186	Mafia II (pc data)
+50187	Mafia II (pc data)
+50188	Mafia II (pc data)
+50189	Mafia II (pc data)
+50191	Mafia II (pc data)
+50192	Mafia II (pc data)
+50193	Mafia II (pc data)
 50194	Mafia II
-50195	Unknown / No Depot
-50196	Unknown / No Depot
-50197	Unknown / No Depot
-50198	Unknown / No Depot
-50199	Unknown / No Depot
-50200	Unknown / No Depot
-50201	Unknown / No Depot
-50202	Unknown / No Depot
-50203	Unknown / No Depot
-50204	Unknown / No Depot
-50205	Unknown / No Depot
-50206	Unknown / No Depot
-50207	Unknown / No Depot
-50208	Unknown / No Depot
-50209	Unknown / No Depot
-50210	Unknown / No Depot
+50195	Mafia II (pc data)
+50196	Mafia II (pc data)
+50197	Mafia II (pc data)
+50198	Mafia II (pc data)
+50199	Mafia II (pc data)
+50200	Mafia II (pc data)
+50201	Mafia II (pc data)
+50202	Mafia II (pc data)
+50203	Mafia II (pc data)
+50204	Mafia II (pc data)
+50205	Mafia II (pc data)
+50206	Mafia II (pc data)
+50207	Mafia II (pc data)
+50208	Mafia II (pc data)
+50209	Mafia II (pc data)
+50210	Mafia II (pc data)
 50211	Mafia II
-50213	Unknown / No Depot
-50221	Unknown / No Depot
-50222	Unknown / No Depot
-50223	Unknown / No Depot
+50213	Mafia II (pc data)
+50221	Mafia II (pc data)
+50222	Mafia II (pc data)
+50223	Mafia II (pc data)
 50224	Mafia II
-50225	Unknown / No Depot
-50226	Unknown / No Depot
-50227	Unknown / No Depot
-50228	Unknown / No Depot
-50229	Unknown / No Depot
-50230	Unknown / No Depot
-50231	Unknown / No Depot
-50232	Unknown / No Depot
-50233	Unknown / No Depot
-50234	Unknown / No Depot
-50235	Unknown / No Depot
-50236	Unknown / No Depot
-50237	Unknown / No Depot
-50238	Unknown / No Depot
-50239	Unknown / No Depot
-50241	Unknown / No Depot
-50242	Unknown / No Depot
-50243	Unknown / No Depot
+50225	Mafia II (pc data)
+50226	Mafia II (pc data)
+50227	Mafia II (pc data)
+50228	Mafia II (pc data)
+50229	Mafia II (pc data)
+50230	Mafia II (pc data)
+50231	Mafia II (pc data)
+50232	Mafia II (pc data)
+50233	Mafia II (pc data)
+50234	Mafia II (pc data)
+50235	Mafia II (pc data)
+50236	Mafia II (pc data)
+50237	Mafia II (pc data)
+50238	Mafia II (pc data)
+50239	Mafia II (pc data)
+50241	Mafia II (pc data)
+50242	Mafia II (pc data)
+50243	Mafia II (pc data)
 50244	Mafia II
-50245	Unknown / No Depot
-50246	Unknown / No Depot
-50247	Unknown / No Depot
-50248	Unknown / No Depot
-50249	Unknown / No Depot
-50261	Unknown / No Depot
-50262	Unknown / No Depot
-50263	Unknown / No Depot
+50245	Mafia II (pc data)
+50246	Mafia II (pc data)
+50247	Mafia II (pc data)
+50248	Mafia II (pc data)
+50249	Mafia II (pc data)
+50261	Mafia II (pc data)
+50262	Mafia II (pc data)
+50263	Mafia II (pc data)
 50264	Mafia II
-50265	Unknown / No Depot
-50266	Unknown / No Depot
-50267	Unknown / No Depot
-50268	Unknown / No Depot
-50269	Unknown / No Depot
-50270	Unknown / No Depot
-50271	Unknown / No Depot
-50272	Unknown / No Depot
+50265	Mafia II (pc data)
+50266	Mafia II (pc data)
+50267	Mafia II (pc data)
+50268	Mafia II (pc data)
+50269	Mafia II (pc data)
+50270	Mafia II (pc data)
+50271	Mafia II (pc data)
+50272	Mafia II (pc data)
 50281	Mafia II - Demo
 50282	Mafia II - Demo
 50283	Mafia II - Demo
@@ -7362,41 +7362,41 @@
 50416	Mafia II - JAPAN
 50417	Mafia II - JAPAN
 50418	Mafia II - JAPAN
-50421	Unknown / No Depot
-50422	Unknown / No Depot
-50423	Unknown / No Depot
+50421	Mafia II (pc data)
+50422	Mafia II (pc data)
+50423	Mafia II (pc data)
 50424	Mafia II
-50425	Unknown / No Depot
-50426	Unknown / No Depot
-50427	Unknown / No Depot
-50428	Unknown / No Depot
-50429	Unknown / No Depot
-50430	Unknown / No Depot
-50431	Unknown / No Depot
-50432	Unknown / No Depot
-50433	Unknown / No Depot
-50434	Unknown / No Depot
-50435	Unknown / No Depot
-50436	Unknown / No Depot
-50437	Unknown / No Depot
+50425	Mafia II (pc data)
+50426	Mafia II (pc data)
+50427	Mafia II (pc data)
+50428	Mafia II (pc data)
+50429	Mafia II (pc data)
+50430	Mafia II (pc data)
+50431	Mafia II (pc data)
+50432	Mafia II (pc data)
+50433	Mafia II (pc data)
+50434	Mafia II (pc data)
+50435	Mafia II (pc data)
+50436	Mafia II (pc data)
+50437	Mafia II (pc data)
 50481	Mafia II
-50482	Unknown / No Depot
-50483	Unknown / No Depot
-50484	Unknown / No Depot
-50485	Unknown / No Depot
-50486	Unknown / No Depot
-50487	Unknown / No Depot
-50488	Unknown / No Depot
-50489	Unknown / No Depot
+50482	Mafia II (pc data)
+50483	Mafia II (pc data)
+50484	Mafia II (pc data)
+50485	Mafia II (pc data)
+50486	Mafia II (pc data)
+50487	Mafia II (pc data)
+50488	Mafia II (pc data)
+50489	Mafia II (pc data)
 50511	Burn Zombie Burn
 50512	Burn Zombie Burn
 50513	Burn Zombie Burn
 50601	Darksiders
-50602	Unknown / No Depot
-50603	Unknown / No Depot
-50604	Unknown / No Depot
-50605	Unknown / No Depot
-50606	Unknown / No Depot
+50602	Darksiders (media)
+50603	Darksiders (media)
+50604	Darksiders (media)
+50605	Darksiders (media)
+50606	Darksiders (media)
 50621	Darksiders
 50622	Darksiders / Darksiders
 50623	Darksiders / Darksiders
@@ -7410,30 +7410,30 @@
 50645	Darksiders / Darksiders
 50646	Darksiders
 50671	Darksiders II
-50672	Unknown / No Depot
-50673	Unknown / No Depot
-50674	Unknown / No Depot
-50675	Unknown / No Depot
-50676	Unknown / No Depot
-50677	Unknown / No Depot
-50678	Unknown / No Depot
-50679	Unknown / No Depot
+50672	Darksiders II (media)
+50673	Darksiders II (media)
+50674	Darksiders II (media)
+50675	Darksiders II (media)
+50676	Darksiders II (media)
+50677	Darksiders II (media)
+50678	Darksiders II (media)
+50679	Darksiders II (media)
 50801	i'm not alone
-50802	Unknown / No Depot
+50802	i'm not alone (data)
 50811	Ikaro
-50812	Unknown / No Depot
-50813	Unknown / No Depot
-50814	Unknown / No Depot
-50815	Unknown / No Depot
+50812	Ikaro (data)
+50813	Ikaro (data)
+50814	Ikaro (data)
+50815	Ikaro (data)
 50821	Max and the Magic Marker
 50822	Max and the Magic Marker
 50831	Max and the Magic Marker - Demo
 50901	Professor FizzWhizzle
-50902	Unknown / No Depot
+50902	Professor Fizzwizzle (data)
 50911	PF and the Molten Mystery
 50912	PF and the Molten Mystery
 50921	Hidden Expedition Amazon
-50922	Unknown / No Depot
+50922	Hidden Expedition Amazon (data)
 50931	Hidden Expedition Everest
 50941	Hidden Expedition Titanic
 50951	Mahjong Towers Eternity
@@ -7442,7 +7442,7 @@
 50981	Mystery Case Files: PrimeSuspects
 50991	Mystery Case Files: Ravenhearst
 51001	Mystery Case Files: Return to Ravenhearst
-51002	Unknown / No Depot
+51002	Mystery Case Files: Return to Ravenhearst (data)
 51011	My Tribe
 51012	My Tribe
 51021	Unwell Mel
@@ -7475,9 +7475,9 @@
 55108	Homefront
 55109	Homefront
 55111	Red Faction: Armageddon
-55112	Unknown / No Depot
-55113	Unknown / No Depot
-55114	Unknown / No Depot
+55112	Red Faction: Armageddon (data)
+55113	Red Faction: Armageddon (data)
+55114	Red Faction: Armageddon (data)
 55115	Red Faction: Armageddon
 55116	Red Faction: Armageddon
 55131	HOMEFRONT Demo
@@ -7486,9 +7486,9 @@
 55134	HOMEFRONT Demo
 55135	HOMEFRONT Demo
 55136	HOMEFRONT Demo
-55137	Unknown / No Depot
+55137	HOMEFRONT Demo (data)
 55138	HOMEFRONT Demo
-55139	Unknown / No Depot
+55139	HOMEFRONT Demo (data)
 55141	MX vs. ATV Reflex
 55142	MX vs. ATV Reflex
 55143	MX vs. ATV Reflex
@@ -7504,9 +7504,9 @@
 55158	Warhammer 40,000: Space Marine - Anniversary Edition
 55159	Warhammer 40,000: Space Marine - Anniversary Edition
 55161	Red Faction: Armageddon
-55162	Unknown / No Depot
-55163	Unknown / No Depot
-55164	Unknown / No Depot
+55162	Red Faction: Armageddon (data)
+55163	Red Faction: Armageddon (data)
+55164	Red Faction: Armageddon (data)
 55166	Red Faction: Armageddon
 55181	HOMEFRONT [Dev]
 55191	HOMEFRONT [Alpha]
@@ -7514,7 +7514,7 @@
 55202	Homefront
 55211	HOMEFRONT - Japanese
 55212	HOMEFRONT - Japanese
-55213	Unknown / No Depot
+55213	HOMEFRONT - Japanese (data)
 55231	Saints Row: The Third
 55232	Saints Row: The Third
 55233	Saints Row: The Third
@@ -7527,19 +7527,19 @@
 55252	Saints Row: The Third
 55281	Homefront Dedicated Server
 55291	Homefront
-55346	Unknown / No Depot
-55347	Unknown / No Depot
-55348	Unknown / No Depot
+55346	Warhammer 40k: Space Marine (data)
+55347	Warhammer 40k: Space Marine (data)
+55348	Warhammer 40k: Space Marine (data)
 55350	Warhammer 40,000: Space Marine - Anniversary Edition
 55351	Warhammer 40,000: Space Marine - Anniversary Edition
 55352	Warhammer 40,000: Space Marine - Anniversary Edition
 55353	Warhammer 40,000: Space Marine - Anniversary Edition
 55354	Warhammer 40,000: Space Marine Demo
 55355	Warhammer 40,000: Space Marine Demo
-55356	Unknown / No Depot
-55357	Unknown / No Depot
-55358	Unknown / No Depot
-55359	Unknown / No Depot
+55356	Warhammer 40k: Space Marine Demo (data)
+55357	Warhammer 40k: Space Marine Demo (data)
+55358	Warhammer 40k: Space Marine Demo (data)
+55359	Warhammer 40k: Space Marine Demo (data)
 55361	Saints Row: The Third
 55362	Saints Row: The Third
 55363	Saints Row: The Third
@@ -7556,24 +7556,24 @@
 55418	Warhammer 40,000: Space Marine Demo
 55419	Warhammer 40,000: Space Marine Demo
 55420	Warhammer 40,000: Space Marine Demo
-55431	Unknown / No Depot
+55431	Warhammer 40k: Space Marine (data)
 55432	Warhammer 40k: Space Marine
-55433	Unknown / No Depot
-55434	Unknown / No Depot
-55435	Unknown / No Depot
-55436	Unknown / No Depot
-55437	Unknown / No Depot
-55438	Unknown / No Depot
-55439	Unknown / No Depot
+55433	Warhammer 40k: Space Marine (data)
+55434	Warhammer 40k: Space Marine (data)
+55435	Warhammer 40k: Space Marine (data)
+55436	Warhammer 40k: Space Marine (data)
+55437	Warhammer 40k: Space Marine (data)
+55438	Warhammer 40k: Space Marine (data)
+55439	Warhammer 40k: Space Marine (data)
 55451	Warhammer 40k: Space Marine
-55452	Unknown / No Depot
-55453	Unknown / No Depot
-55454	Unknown / No Depot
-55455	Unknown / No Depot
-55456	Unknown / No Depot
-55457	Unknown / No Depot
-55458	Unknown / No Depot
-55459	Unknown / No Depot
+55452	Warhammer 40k: Space Marine (data)
+55453	Warhammer 40k: Space Marine (data)
+55454	Warhammer 40k: Space Marine (data)
+55455	Warhammer 40k: Space Marine (data)
+55456	Warhammer 40k: Space Marine (data)
+55457	Warhammer 40k: Space Marine (data)
+55458	Warhammer 40k: Space Marine (data)
+55459	Warhammer 40k: Space Marine (data)
 56401	Warhammer 40,000: Dawn of War II - Retribution
 56402	Warhammer 40,000: Dawn of War II - Retribution
 56403	Warhammer 40,000: Dawn of War II - Retribution
@@ -7598,27 +7598,27 @@
 56428	Warhammer 40,000: Dawn of War II - Retribution
 56429	Warhammer 40,000: Dawn of War II - Retribution
 56441	Dawn of War II
-56442	Unknown / No Depot
-56443	Unknown / No Depot
-56444	Unknown / No Depot
-56445	Unknown / No Depot
-56446	Unknown / No Depot
-56447	Unknown / No Depot
-56448	Unknown / No Depot
-56449	Unknown / No Depot
-56450	Unknown / No Depot
+56442	Dawn of War II (localization)
+56443	Dawn of War II (localization)
+56444	Dawn of War II (localization)
+56445	Dawn of War II (localization)
+56446	Dawn of War II (localization)
+56447	Dawn of War II (localization)
+56448	Dawn of War II (localization)
+56449	Dawn of War II (localization)
+56450	Dawn of War II (data)
 56461	Dawn of War II
-56462	Unknown / No Depot
-56463	Unknown / No Depot
-56464	Unknown / No Depot
-56465	Unknown / No Depot
-56466	Unknown / No Depot
-56467	Unknown / No Depot
-56468	Unknown / No Depot
-56469	Unknown / No Depot
-56470	Unknown / No Depot
-56476	Unknown / No Depot
-56479	Unknown / No Depot
+56462	Dawn of War II (data)
+56463	Dawn of War II (data)
+56464	Dawn of War II (data)
+56465	Dawn of War II (data)
+56466	Dawn of War II (data)
+56467	Dawn of War II (data)
+56468	Dawn of War II (data)
+56469	Dawn of War II (data)
+56470	Dawn of War II (data)
+56476	Dawn of War II (data)
+56479	Dawn of War II (data)
 57001	NyxQuest
 57002	NyxQuest
 57003	NyxQuest
@@ -7644,7 +7644,7 @@
 57604	Tropico 3: Absolute Power
 57605	Tropico 3: Absolute Power
 57606	Tropico 3: Absolute Power
-57607	Unknown / No Depot
+57607	Tropico 3: Absolute Power (data)
 57611	Disciples III: Renaissance - Demo
 57621	Patrician IV: Steam Special Edition / Patrician IV: Rise of a Dynasty
 57622	Patrician IV: Steam Special Edition / Patrician IV: Rise of a Dynasty
@@ -7756,9 +7756,9 @@
 58515	Cities XL 2011
 58521	Blood Bowl: Legendary Edition
 58531	Divinity II
-58532	Unknown / No Depot
-58533	Unknown / No Depot
-58534	Unknown / No Depot
+58532	Divinity II (data)
+58533	Divinity II (data)
+58534	Divinity II (data)
 58541	Divinity II - The Dragon Knight Saga
 58542	Divinity II - The Dragon Knight Saga
 58543	Divinity II - The Dragon Knight Saga
@@ -7811,7 +7811,7 @@
 58618	Wargame: European Escalation
 58619	Wargame: European Escalation
 58621	Unknown (WarGame.exe)
-58622	Unknown / No Depot
+58622	Wargame: European Escalation (data)
 58640	Wargame: European Escalation
 58641	Wargame: European Escalation
 58642	Wargame: European Escalation
@@ -7820,7 +7820,7 @@
 58701	Wicked Manor Chronicles
 58702	Wicked Manor Chronicles
 58703	Wicked Manor Chronicles
-58704	Unknown / No Depot
+58704	Wicked Manor Chronicles (data)
 58711	Death on the Nile
 58712	Death on the Nile
 58713	Death on the Nile
@@ -7835,15 +7835,15 @@
 58761	Paradise Quest
 58762	Paradise Quest
 58771	Unknown (DMF.exe)
-58772	Unknown / No Depot
+58772	Wicked Manor Chronicles (data)
 58773	Unknown (DMF.exe)
 58781	Unknown (endhouse.exe)
-58782	Unknown / No Depot
+58782	Wicked Manor Chronicles (data)
 58783	Unknown (endhouse.exe)
-60301	Unknown / No Depot
-60311	Unknown / No Depot
-60321	Unknown / No Depot
-60331	Unknown / No Depot
+60301	Luxor (data)
+60311	Luxor (data)
+60321	Luxor (data)
+60331	Luxor (data)
 60341	LUXOR: 5th Passage
 60342	LUXOR: 5th Passage
 60351	Glowfish
@@ -7867,7 +7867,7 @@
 61222	Battle: Los Angeles
 61231	Red Bull X-Fighters
 61301	Fractal
-61302	Unknown / No Depot
+61302	Fractal (data)
 61311	Fractal: Make Blooms Not War
 61312	Fractal: Make Blooms Not War
 61501	Age of Wonders
@@ -7945,13 +7945,13 @@
 63651	Uru: Complete Chronicles
 63661	Myst: Masterpiece Edition
 63701	BIT.TRIP BEAT
-63702	Unknown / No Depot
+63702	BIT.TRIP BEAT (data)
 63703	BIT.TRIP BEAT
-63704	Unknown / No Depot
+63704	BIT.TRIP BEAT (data)
 63711	BIT.TRIP RUNNER
-63712	Unknown / No Depot
+63712	BIT.TRIP RUNNER (data)
 63713	BIT.TRIP RUNNER
-63714	Unknown / No Depot
+63714	BIT.TRIP RUNNER (data)
 63801	Delve Deeper
 63802	Delve Deeper
 63803	Delve Deeper
@@ -7967,8 +7967,8 @@
 63951	IL-2 Sturmovik: Cliffs of Dover
 63952	IL-2 Sturmovik: Cliffs of Dover
 63954	IL-2 Sturmovik: Cliffs of Dover
-63958	Unknown / No Depot
-63959	Unknown / No Depot
+63958	IL-2 Sturmovik: Cliffs of Dover (data)
+63959	IL-2 Sturmovik: Cliffs of Dover (data)
 63961	Theatre of War 3: Korea
 64001	Men of War: Assault Squad
 64003	Men of War: Assault Squad
@@ -7990,14 +7990,14 @@
 65011	Need for Ride
 65031	City Bus Simulator
 65041	Airport Simulator
-65042	Unknown / No Depot
+65042	Airport Simulator (data)
 65051	Snow Cat
-65052	Unknown / No Depot
-65053	Unknown / No Depot
+65052	Snow Cat (data)
+65053	Snow Cat (data)
 65071	Ride 'em Low
 65072	Ride 'em Low
 65073	Ride 'em Low
-65074	Unknown / No Depot
+65074	Ride 'em Low (data)
 65081	Kaptain Brawe: A Brawe New World
 65082	Kaptain Brawe: A Brawe New World
 65091	Kaptain Brawe - Demo
@@ -8074,15 +8074,15 @@
 65504	Aura: Fate of the Ages
 65505	Aura: Fate of the Ages
 65511	TSR (2008)
-65512	Unknown / No Depot
-65513	Unknown / No Depot
-65514	Unknown / No Depot
-65515	Unknown / No Depot
+65512	TSR (2008) (data)
+65513	TSR (2008) (data)
+65514	TSR (2008) (data)
+65515	TSR (2008) (data)
 65521	ArcaniA - Demo
-65522	Unknown / No Depot
-65523	Unknown / No Depot
-65524	Unknown / No Depot
-65525	Unknown / No Depot
+65522	ArcaniA - Demo (data)
+65523	ArcaniA - Demo (data)
+65524	ArcaniA - Demo (data)
+65525	ArcaniA - Demo (data)
 65531	SpellForce 2 - Faith in Destiny
 65532	SpellForce 2 - Faith in Destiny
 65533	SpellForce 2 - Faith in Destiny
@@ -8134,38 +8134,38 @@
 67002	The Polynomial
 67011	The Polynomial - Demo
 67012	The Polynomial - Demo
-67201	Unknown / No Depot
-67202	Unknown / No Depot
-67203	Unknown / No Depot
+67201	Mafia II (data)
+67202	Mafia II (data)
+67203	Mafia II (data)
 67204	Mafia II
-67205	Unknown / No Depot
-67206	Unknown / No Depot
-67207	Unknown / No Depot
-67208	Unknown / No Depot
-67209	Unknown / No Depot
-67210	Unknown / No Depot
+67205	Mafia II (data)
+67206	Mafia II (data)
+67207	Mafia II (data)
+67208	Mafia II (data)
+67209	Mafia II (data)
+67210	Mafia II (data)
 67231	Mafia II (Classic)
-67241	Unknown / No Depot
-67242	Unknown / No Depot
-67243	Unknown / No Depot
+67241	Mafia II (Classic data)
+67242	Mafia II (data)
+67243	Mafia II (data)
 67244	Mafia II
-67245	Unknown / No Depot
-67246	Unknown / No Depot
-67247	Unknown / No Depot
-67248	Unknown / No Depot
-67249	Unknown / No Depot
-67301	Unknown / No Depot
-67302	Unknown / No Depot
-67303	Unknown / No Depot
+67245	Mafia II (data)
+67246	Mafia II (data)
+67247	Mafia II (data)
+67248	Mafia II (data)
+67249	Mafia II (data)
+67301	Mafia II (data)
+67302	Mafia II (data)
+67303	Mafia II (data)
 67304	Mafia II
-67305	Unknown / No Depot
-67306	Unknown / No Depot
-67307	Unknown / No Depot
-67308	Unknown / No Depot
-67309	Unknown / No Depot
-67311	Unknown / No Depot
-67312	Unknown / No Depot
-67313	Unknown / No Depot
+67305	Mafia II (data)
+67306	Mafia II (data)
+67307	Mafia II (data)
+67308	Mafia II (data)
+67309	Mafia II (data)
+67311	Mafia II (data)
+67312	Mafia II (data)
+67313	Mafia II (data)
 67371	The Darkness II
 67372	The Darkness II
 67373	The Darkness II
@@ -8237,7 +8237,7 @@
 70911	Star Ruler - Demo
 71001	Evochron Mercenary
 71101	Football Manager
-71102	Unknown / No Depot
+71102	Football Manager (data)
 71110	SEGA Mega Drive & Genesis Classics
 71111	SEGA Mega Drive & Genesis Classics
 71112	SEGA Mega Drive & Genesis Classics
@@ -8251,9 +8251,9 @@
 71120	SEGA Mega Drive & Genesis Classics
 71131	Football Manager
 71141	Total War: Shogun 2
-71142	Unknown / No Depot
+71142	Total War: Shogun 2 (data)
 71143	Total War: Shogun 2
-71144	Unknown / No Depot
+71144	Total War: Shogun 2 (data)
 71160	SEGA Mega Drive & Genesis Classics
 71161	SEGA Mega Drive & Genesis Classics
 71162	SEGA Mega Drive & Genesis Classics
@@ -8264,22 +8264,22 @@
 71167	SEGA Mega Drive & Genesis Classics
 71168	SEGA Mega Drive & Genesis Classics
 71181	Total War: Shogun 2
-71182	Unknown / No Depot
+71182	Total War: Shogun 2 (data)
 71183	Total War: Shogun 2
-71184	Unknown / No Depot
-71185	Unknown / No Depot
-71186	Unknown / No Depot
-71187	Unknown / No Depot
-71188	Unknown / No Depot
-71189	Unknown / No Depot
-71190	Unknown / No Depot
-71191	Unknown / No Depot
-71192	Unknown / No Depot
+71184	Total War: Shogun 2 (data)
+71185	Total War: Shogun 2 (data)
+71186	Total War: Shogun 2 (data)
+71187	Total War: Shogun 2 (data)
+71188	Total War: Shogun 2 (data)
+71189	Total War: Shogun 2 (data)
+71190	Total War: Shogun 2 (data)
+71191	Total War: Shogun 2 (data)
+71192	Total War: Shogun 2 (data)
 71201	Football Manager
 71211	Total War: Shogun 2
-71212	Unknown / No Depot
+71212	Total War: Shogun 2 (data)
 71213	Total War: Shogun 2
-71214	Unknown / No Depot
+71214	Total War: Shogun 2 (data)
 71231	Crazy Taxi
 71241	SEGA Bass Fishing
 71251	Sonic Adventure DX
@@ -8287,8 +8287,8 @@
 71271	Football Manager 2012
 71272	Football Manager 2012
 71273	Football Manager 2012
-71274	Unknown / No Depot
-71275	Unknown / No Depot
+71274	Football Manager 2012 (data)
+71275	Football Manager 2012 (data)
 71281	Football Manager 2012 Demo
 71282	Football Manager 2012 Demo
 71291	Football Manager
@@ -8332,8 +8332,8 @@
 72715	Fallout: New Vegas / Fallout: New Vegas PCR
 72716	Fallout: New Vegas / Fallout: New Vegas PCR
 72721	Fallout: New Vegas
-72722	Unknown / No Depot
-72723	Unknown / No Depot
+72722	Fallout: New Vegas (data)
+72723	Fallout: New Vegas (data)
 72724	Fallout: New Vegas
 72731	Fallout: New Vegas / Fallout New Vegas: Dead Money
 72732	Fallout: New Vegas
@@ -8404,11 +8404,11 @@
 73022	Majesty 2 Collection
 73023	Majesty 2 Collection
 73024	Majesty 2 Collection
-73030	Unknown / No Depot
-73031	Unknown / No Depot
-73032	Unknown / No Depot
-73033	Unknown / No Depot
-73034	Unknown / No Depot
+73030	Majesty 2 (data)
+73031	Majesty 2 (data)
+73032	Majesty 2 (data)
+73033	Majesty 2 (data)
+73034	Majesty 2 (data)
 73041	Majesty 2
 73042	Majesty 2
 73043	Majesty 2
@@ -8421,12 +8421,12 @@
 73073	Majesty 2
 73081	Crusader Kings II
 73085	Crusader Kings II
-73086	Unknown / No Depot
-73088	Unknown / No Depot
-73089	Unknown / No Depot
+73086	Crusader Kings II (data)
+73088	Crusader Kings II (data)
+73089	Crusader Kings II (data)
 73101	Dreamlords: Recurring
 73151	Magicka
-73152	Unknown / No Depot
+73152	Magicka (data)
 73153	Magicka
 73171	Darkest Hour: A Hearts of Iron Game
 73180	Cities in Motion
@@ -8474,8 +8474,8 @@
 80205	Fate of the World
 80206	Fate of the World
 80207	Fate of the World
-80221	Unknown / No Depot
-80222	Unknown / No Depot
+80221	Fate of the World (data)
+80222	Fate of the World (data)
 80301	Puzzle Bots
 80311	Gemini Rue
 80331	The Blackwell Legacy
@@ -8744,7 +8744,7 @@
 80675	ARMA II Trailer (ESRB)
 80676	ARMA II - USMC Trailer (ESRB)
 80677	Dungeon Siege III Gameplay Trailer
-80678	Unknown / No Depot
+80678	Video (trailer)
 80679	Gothic 3 Forsaken Gods Trailer
 80680	IL-2 Sturmovik - Cliffs of Dover
 80681	Magicka Vietnam Trailer
@@ -8774,15 +8774,15 @@
 80708	PAM Space Cowboy Intro
 80709	PAM Childhood Intro
 80710	Theatre of War Korea Trailer
-80711	Unknown / No Depot
-80712	Unknown / No Depot
-80713	Unknown / No Depot
-80714	Unknown / No Depot
-80715	Unknown / No Depot
-80716	Unknown / No Depot
-80717	Unknown / No Depot
-80718	Unknown / No Depot
-80719	Unknown / No Depot
+80711	Video (trailer)
+80712	Video (trailer)
+80713	Video (trailer)
+80714	Video (trailer)
+80715	Video (trailer)
+80716	Video (trailer)
+80717	Video (trailer)
+80718	Video (trailer)
+80719	Video (trailer)
 80720	Dirt 3 Trailer DE
 80721	Dirt 3 Trailer ES
 80722	Dirt 3 Trailer FR
@@ -8806,8 +8806,8 @@
 80740	Portal 2 - Panels Short (French)
 80741	Portal 2 - Panels Short (german)
 80742	Portal 2 - Panels Short (Russian)
-80743	Unknown / No Depot
-80744	Unknown / No Depot
+80743	Video (trailer)
+80744	Video (trailer)
 80745	Dirt 3 Teaser Trailer ESRB
 80746	Dirt 3 Teaser Trailer PEGI
 80747	Portal 2 - Bot Trust Short (English)
@@ -8901,10 +8901,10 @@
 80840	WTCC 2010 Expansion
 80843	Runespell Overture Teaser
 80844	Call of Duty Black Ops - Call of the Dead Trailer
-80845	Unknown / No Depot
-80846	Unknown / No Depot
-80847	Unknown / No Depot
-80848	Unknown / No Depot
+80845	Video (trailer)
+80846	Video (trailer)
+80847	Video (trailer)
+80848	Video (trailer)
 80849	AVA Prison Break
 80850	AVA Death Valley
 80851	Star Raiders ESRB Trailer
@@ -8954,7 +8954,7 @@
 80896	LIMBO Trailer
 80897	Might & Magic Heroes VI Beta Trailer
 80898	Might & Magic Heroes VI Beta PEGI Trailer
-80899	Unknown / No Depot
+80899	Video (trailer)
 80900	Dead Island - Begins (ESRB)
 80901	Dead Island - Begins (PEGI)
 80902	Hacker Evolution Duality Trailer
@@ -9166,7 +9166,7 @@
 91614	Sanctum
 91615	Sanctum
 91616	Sanctum
-91618	Unknown / No Depot
+91618	Sanctum (data)
 91630	Sanctum
 91631	Sanctum
 91632	Sanctum
@@ -9291,8 +9291,8 @@
 94501	Back to the Future: Ep 2 - Get Tannen!
 94502	Back to the Future: Ep 2 - Get Tannen!
 94511	Back to the Future: Ep 3 - Citizen Brown
-94512	Unknown / No Depot
-94513	Unknown / No Depot
+94512	Back to the Future Ep 3 (data)
+94513	Back to the Future Ep 3 (data)
 94514	Back to the Future: Ep 3 - Citizen Brown
 94521	Back to the Future: Ep 4 - Double Visions
 94522	Back to the Future: Ep 4 - Double Visions
@@ -9323,7 +9323,7 @@
 96002	The Tiny Bang Story
 96005	The Tiny Bang Story
 96011	The Tiny Bang Story - Demo
-96012	Unknown / No Depot
+96012	The Tiny Bang Story Demo (data)
 96015	The Tiny Bang Story - Demo
 96105	Defy Gravity
 96201	Steel Storm: Burning Retribution
@@ -9418,18 +9418,18 @@
 99401	Garshasp: The Monster Slayer
 99501	RailWorks
 99511	RailWorks
-99521	Unknown (Game.exe)
+99521	Unknown (Game.exe / acknex)
 99531	Tow Truck Simulator 2010
-99532	Unknown / No Depot
-99533	Unknown / No Depot
+99532	Tow Truck Simulator 2010 (data)
+99533	Tow Truck Simulator 2010 (data)
 99581	Wiper
 99601	Civilization V SDK
 99610	Sid Meier's Civilization V
 99611	Sid Meier's Civilization V
 99612	Sid Meier's Civilization V
 99613	Sid Meier's Civilization V
-99614	Unknown / No Depot
-99615	Unknown / No Depot
+99614	Civilization V (data)
+99615	Civilization V (data)
 99701	NightSky
 99811	Bulletstorm
 99812	Bulletstorm
@@ -9482,7 +9482,7 @@
 102025	Duke Nukem Forever
 102026	Duke Nukem Forever
 102027	Duke Nukem Forever
-102028	Unknown / No Depot
+102028	Duke Nukem Forever (DLC data)
 102029	Duke Nukem Forever
 102201	Runespell: Overture
 102202	Runespell: Overture
@@ -9627,7 +9627,7 @@
 108701	Death Rally
 108711	Alan Wake
 108712	Alan Wake
-108713	Unknown / No Depot
+108713	Alan Wake (data)
 108714	Alan Wake
 108715	Alan Wake
 108716	Alan Wake
@@ -9761,10 +9761,10 @@
 200241	Batman: Arkham City Demo
 200261	Batman: Arkham City GOTY
 200281	Unknown (UE3 GFx tools)
-200282	Unknown / No Depot
-200283	Unknown / No Depot
-200284	Unknown / No Depot
-200285	Unknown / No Depot
+200282	Batman: Arkham City (data)
+200283	Batman: Arkham City (data)
+200284	Batman: Arkham City (data)
+200285	Batman: Arkham City (data)
 200320	Serious Sam 3: BFE
 200321	Serious Sam 3: BFE
 200322	Serious Sam 3: BFE
@@ -9780,9 +9780,9 @@
 200401	Wasteland Angel - Demo
 200402	Wasteland Angel - Demo
 200411	SOL: Exodus
-200431	Unknown / No Depot
+200431	Oil Rush (data)
 200432	Unknown (redist)
-200433	Unknown / No Depot
+200433	Oil Rush (data)
 200441	Two Worlds II HD
 200442	Two Worlds II HD
 200443	Two Worlds II HD
@@ -9821,8 +9821,8 @@
 200840	Batman: Arkham City™
 200850	Batman: Arkham City™
 200860	Batman: Arkham City™
-200870	Unknown / No Depot
-200880	Unknown / No Depot
+200870	Batman: Arkham City (data)
+200880	Batman: Arkham City (data)
 200890	Batman: Arkham City™
 200901	Cave Story+
 200902	Cave Story+
@@ -9853,7 +9853,7 @@
 201196	Magic: The Gathering – Tactics
 201211	Unknown (Java/Flash)
 201231	EverQuest II
-201232	Unknown / No Depot
+201232	EverQuest II (data)
 201233	EverQuest II
 201234	EverQuest II
 201235	EverQuest II
@@ -9880,10 +9880,10 @@
 201319	X3: Albion Prelude
 201331	Max Payne (IT)
 201341	Unknown (UE3 GFx tools)
-201342	Unknown / No Depot
-201343	Unknown / No Depot
-201344	Unknown / No Depot
-201345	Unknown / No Depot
+201342	UE3 GFx tools (data)
+201343	UE3 GFx tools (data)
+201344	UE3 GFx tools (data)
+201345	UE3 GFx tools (data)
 201421	Toki Tori 2+ / Toki Tori 2+ Level Editor
 201422	Toki Tori 2+ / Toki Tori 2+ Level Editor
 201481	Serious Sam: The Random Encounter
@@ -9894,24 +9894,24 @@
 201495	Airline Tycoon 2
 201511	FlatOut 3: Chaos & Destruction
 201531	Unknown (redist)
-201532	Unknown / No Depot
-201533	Unknown / No Depot
-201534	Unknown / No Depot
-201535	Unknown / No Depot
-201536	Unknown / No Depot
-201537	Unknown / No Depot
-201538	Unknown / No Depot
-201539	Unknown / No Depot
-201540	Unknown / No Depot
-201541	Unknown / No Depot
+201532	FlatOut 3 (data)
+201533	FlatOut 3 (data)
+201534	FlatOut 3 (data)
+201535	FlatOut 3 (data)
+201536	FlatOut 3 (data)
+201537	FlatOut 3 (data)
+201538	FlatOut 3 (data)
+201539	FlatOut 3 (data)
+201540	FlatOut 3 (data)
+201541	FlatOut 3 (data)
 201542	RAGE (press build)
 201551	Wrestlefest
-201563	Unknown / No Depot
-201564	Unknown / No Depot
-201565	Unknown / No Depot
-201566	Unknown / No Depot
-201567	Unknown / No Depot
-201568	Unknown / No Depot
+201563	Really Big Sky (data)
+201564	Really Big Sky (data)
+201565	Really Big Sky (data)
+201566	Really Big Sky (data)
+201567	Really Big Sky (data)
+201568	Really Big Sky (data)
 201571	Really Big Sky
 201601	Football Manager 2012 Russian Demo
 201602	Football Manager 2012 Russian Demo
@@ -9988,8 +9988,8 @@
 202612	Risen 2 Demo
 202613	Risen 2 Demo
 202631	Risen 2: Dark Waters
-202632	Unknown / No Depot
-202633	Unknown / No Depot
+202632	Risen 2 (data)
+202633	Risen 2 (data)
 202651	Steel Storm: Burning Retribution
 202671	Nancy Drew: Alibi in Ashes
 202672	Nancy Drew: Alibi in Ashes
@@ -10012,7 +10012,7 @@
 202942	Super Meat Boy
 202951	BIT.TRIP BEAT
 202961	BIT.TRIP RUNNER
-203031	Unknown (postman.exe)
+203031	The Postman
 203050	Sword of the Stars II: Enhanced Edition
 203180	Spec Ops: The Line
 203181	Spec Ops: The Line
@@ -10034,11 +10034,11 @@
 203256	Star Trek
 203257	Star Trek
 203321	NightSky
-203322	Unknown / No Depot
+203322	NightSky (data)
 203344	Jagged Alliance - Back in Action
 203345	Jagged Alliance - Back in Action
-203371	Unknown (TTE.exe)
-203372	Unknown / No Depot
+203371	Tiny Troopers
+203372	Tiny Troopers (data)
 203391	Casino Chaos
 203411	Ubongo
 203431	Voodoo Chronicles
@@ -10059,7 +10059,7 @@
 203651	SONIC THE HEDGEHOG 4 Episode II
 203681	F1 Race Stars
 203682	F1 Race Stars
-203683	Unknown / No Depot
+203683	F1 Race Stars (data)
 203684	F1 Race Stars
 203685	F1 Race Stars
 203686	F1 Race Stars
@@ -10084,17 +10084,17 @@
 203776	Crusader Kings II
 203777	Crusader Kings II
 203778	Crusader Kings II
-203779	Unknown / No Depot
-203791	Unknown (postman.exe)
+203779	Crusader Kings II (data)
+203791	The Postman
 203811	Dear Esther
 203812	Dear Esther
 203813	Dear Esther
 203831	The Dark Eye: Chains of Satinav
 203832	The Dark Eye: Chains of Satinav
-203833	Unknown / No Depot
-203834	Unknown / No Depot
-203835	Unknown / No Depot
-203836	Unknown / No Depot
+203833	The Dark Eye (data)
+203834	The Dark Eye (data)
+203835	The Dark Eye (data)
+203836	The Dark Eye (data)
 203837	The Dark Eye: Chains of Satinav
 203851	Microsoft Flight
 203971	Kingdoms of Amalur: Reckoning Demo
@@ -10112,8 +10112,8 @@
 204061	Superbrothers: Sword & Sworcery EP
 204062	Superbrothers: Sword & Sworcery EP
 204075	Superbrothers: Sword & Sworcery EP - Soundtrack
-204076	Unknown / No Depot
-204077	Unknown / No Depot
+204076	Superbrothers: Sword & Sworcery (data)
+204077	Superbrothers: Sword & Sworcery (data)
 204081	The Showdown Effect
 204082	The Showdown Effect
 204083	The Showdown Effect
@@ -10232,8 +10232,8 @@
 205551	Foreign Legion: Multi Massacre
 205552	Foreign Legion: Multi Massacre
 205571	Risen 2: Dark Waters
-205572	Unknown / No Depot
-205573	Unknown / No Depot
+205572	Risen 2 (data)
+205573	Risen 2 (data)
 205574	Risen 2: Dark Waters
 205611	Port Royale 3
 205612	Port Royale 3
@@ -10241,8 +10241,8 @@
 205614	Port Royale 3
 205630	Tropico 4
 205671	Sins of a Solar Empire: Rebellion
-205672	Unknown / No Depot
-205673	Unknown / No Depot
+205672	Sins of a Solar Empire: Rebellion (data)
+205673	Sins of a Solar Empire: Rebellion (data)
 205691	1000 Amps
 205692	1000 Amps
 205701	Quantum Conundrum Demo
@@ -10282,9 +10282,9 @@
 206311	Crusader Kings II Demo
 206331	Unknown (Evo.exe)
 206351	Confrontation
-206352	Unknown / No Depot
-206353	Unknown / No Depot
-206354	Unknown / No Depot
+206352	Confrontation (data)
+206353	Confrontation (data)
+206354	Confrontation (data)
 206371	Tales from Space: Mutant Blobs Attack
 206391	London 2012
 206411	Crazy Machines Elements
@@ -10335,7 +10335,7 @@
 206882	Airline Tycoon 2
 206921	Port Royale 3
 206922	Port Royale 3
-206923	Unknown / No Depot
+206923	Port Royale 3 (data)
 206941	Icewind Dale
 206951	Icewind Dale 2
 206961	Temple of Elemental Evil
@@ -10516,11 +10516,11 @@
 208881	Mad Riders
 208981	Blades of Time
 208982	Blades of Time
-208983	Unknown / No Depot
-208984	Unknown / No Depot
+208983	Blades of Time (data)
+208984	Blades of Time (data)
 208985	Blades of Time
 209021	Avernum
-209022	Unknown / No Depot
+209022	Avernum (data)
 209041	Ridge Racer™ Unbounded Demo
 209081	Guns of Icarus Online / Guns of Icarus Alliance
 209082	Guns of Icarus Online / Guns of Icarus Alliance
@@ -10550,15 +10550,15 @@
 209372	Analogue: A Hate Story
 209373	Analogue: A Hate Story Soundtrack
 209374	Analogue: A Hate Story
-209481	Unknown (Client.exe)
+209481	"Project P3" (Mystery Island prototype)
 209501	The Witcher (Mac)
-209502	Unknown / No Depot
-209503	Unknown / No Depot
-209504	Unknown / No Depot
-209505	Unknown / No Depot
-209506	Unknown / No Depot
-209507	Unknown / No Depot
-209508	Unknown / No Depot
+209502	The Witcher (Mac) (data)
+209503	The Witcher (Mac) (data)
+209504	The Witcher (Mac) (data)
+209505	The Witcher (Mac) (data)
+209506	The Witcher (Mac) (data)
+209507	The Witcher (Mac) (data)
+209508	The Witcher (Mac) (data)
 209691	Fieldrunners
 209692	Fieldrunners
 209693	Fieldrunners
@@ -10607,27 +10607,27 @@
 210477	Sniper Elite V2 Demo
 210478	Sniper Elite V2 Demo
 210700	Stronghold 3
-210701	Unknown / No Depot
-210702	Unknown / No Depot
-210703	Unknown / No Depot
-210704	Unknown / No Depot
-210705	Unknown / No Depot
-210706	Unknown / No Depot
-210707	Unknown / No Depot
-210708	Unknown / No Depot
+210701	Stronghold 3 (data)
+210702	Stronghold 3 (data)
+210703	Stronghold 3 (data)
+210704	Stronghold 3 (data)
+210705	Stronghold 3 (data)
+210706	Stronghold 3 (data)
+210707	Stronghold 3 (data)
+210708	Stronghold 3 (data)
 210721	Blades of Time Demo
-210722	Unknown / No Depot
+210722	Blades of Time Demo (data)
 210741	Analogue: A Hate Story Demo
 210742	Analogue: A Hate Story Demo
 210801	Nexuiz
 210821	Unknown (redist)
-210822	Unknown / No Depot
-210823	Unknown / No Depot
-210824	Unknown / No Depot
-210825	Unknown / No Depot
-210826	Unknown / No Depot
-210827	Unknown / No Depot
-210828	Unknown / No Depot
+210822	Nexuiz (data)
+210823	Nexuiz (data)
+210824	Nexuiz (data)
+210825	Nexuiz (data)
+210826	Nexuiz (data)
+210827	Nexuiz (data)
+210828	Nexuiz (data)
 210829	Sniper Elite V2
 210830	Sniper Elite V2
 210841	Warlock - Master of the Arcane Demo
@@ -10677,9 +10677,9 @@
 211521	Max Payne 3
 211581	Wanderlust: Rebirth
 211621	Oil Rush
-211622	Unknown / No Depot
-211623	Unknown / No Depot
-211624	Unknown / No Depot
+211622	Oil Rush (data)
+211623	Oil Rush (data)
+211624	Oil Rush (data)
 211651	Stoked: Big Air Edition
 211720	The Elder Scrolls V: Skyrim
 211721	The Elder Scrolls V: Skyrim / The Elder Scrolls V: Skyrim Preorder Ad App
@@ -10705,25 +10705,25 @@
 212144	Magical Diary Demo
 212351	The Dream Machine Demo
 212431	RailWorks
-212432	Unknown / No Depot
-212433	Unknown / No Depot
-212434	Unknown / No Depot
-212435	Unknown / No Depot
-212436	Unknown / No Depot
-212437	Unknown / No Depot
-212438	Unknown / No Depot
-212439	Unknown / No Depot
-212440	Unknown / No Depot
-212441	Unknown / No Depot
-212442	Unknown / No Depot
-212443	Unknown / No Depot
-212444	Unknown / No Depot
-212445	Unknown / No Depot
-212446	Unknown / No Depot
-212447	Unknown / No Depot
-212448	Unknown / No Depot
-212449	Unknown / No Depot
-212450	Unknown / No Depot
+212432	RailWorks (data)
+212433	RailWorks (data)
+212434	RailWorks (data)
+212435	RailWorks (data)
+212436	RailWorks (data)
+212437	RailWorks (data)
+212438	RailWorks (data)
+212439	RailWorks (data)
+212440	RailWorks (data)
+212441	RailWorks (data)
+212442	RailWorks (data)
+212443	RailWorks (data)
+212444	RailWorks (data)
+212445	RailWorks (data)
+212446	RailWorks (data)
+212447	RailWorks (data)
+212448	RailWorks (data)
+212449	RailWorks (data)
+212450	RailWorks (data)
 212501	The Lord of the Rings Online™
 212502	The Lord of the Rings Online™
 212503	The Lord of the Rings Online™
@@ -10762,18 +10762,18 @@
 214984	Hearts of Iron III
 214985	Hearts of Iron III
 215041	Unreal Development Kit
-215042	Unknown / No Depot
-215043	Unknown / No Depot
-215044	Unknown / No Depot
-215045	Unknown / No Depot
-215046	Unknown / No Depot
-215047	Unknown / No Depot
-215048	Unknown / No Depot
-215049	Unknown / No Depot
-215050	Unknown / No Depot
-215051	Unknown / No Depot
-215052	Unknown / No Depot
-215053	Unknown / No Depot
+215042	Unreal Development Kit (data)
+215043	Unreal Development Kit (data)
+215044	Unreal Development Kit (data)
+215045	Unreal Development Kit (data)
+215046	Unreal Development Kit (data)
+215047	Unreal Development Kit (data)
+215048	Unreal Development Kit (data)
+215049	Unreal Development Kit (data)
+215050	Unreal Development Kit (data)
+215051	Unreal Development Kit (data)
+215052	Unreal Development Kit (data)
+215053	Unreal Development Kit (data)
 215302	Clan of Champions
 215304	Clan of Champions
 215305	Clan of Champions
@@ -10795,27 +10795,27 @@
 218371	DiRT Showdown
 218372	F1 2012
 218373	Unknown (Unity QA)
-218374	Unknown / No Depot
-218375	Unknown / No Depot
-218376	Unknown / No Depot
-218377	Unknown / No Depot
-218378	Unknown / No Depot
-218379	Unknown / No Depot
-218380	Unknown / No Depot
-218381	Unknown / No Depot
-218382	Unknown / No Depot
+218374	F1 2012 (data)
+218375	F1 2012 (data)
+218376	F1 2012 (data)
+218377	F1 2012 (data)
+218378	F1 2012 (data)
+218379	F1 2012 (data)
+218380	F1 2012 (data)
+218381	F1 2012 (data)
+218382	F1 2012 (data)
 218391	DiRT Showdown
 218392	F1 2012
 218393	Unknown (Unity QA)
-218394	Unknown / No Depot
-218395	Unknown / No Depot
-218396	Unknown / No Depot
-218397	Unknown / No Depot
-218398	Unknown / No Depot
-218399	Unknown / No Depot
-218400	Unknown / No Depot
-218401	Unknown / No Depot
-218402	Unknown / No Depot
+218394	F1 2012 (data)
+218395	F1 2012 (data)
+218396	F1 2012 (data)
+218397	F1 2012 (data)
+218398	F1 2012 (data)
+218399	F1 2012 (data)
+218400	F1 2012 (data)
+218401	F1 2012 (data)
+218402	F1 2012 (data)
 220760	The Elder Scrolls V: Skyrim
 220761	The Elder Scrolls V: Skyrim / The Elder Scrolls V: Skyrim Preorder Ad App
 220762	The Elder Scrolls V: Skyrim / The Elder Scrolls V: Skyrim Preorder Ad App
@@ -10825,30 +10825,30 @@
 221941	DiRT Showdown
 221942	F1 Race Stars
 221943	F1 Kart Stars
-221944	Unknown / No Depot
-221945	Unknown / No Depot
-221946	Unknown / No Depot
-221947	Unknown / No Depot
-221948	Unknown / No Depot
-221949	Unknown / No Depot
-221950	Unknown / No Depot
-221952	Unknown / No Depot
-221961	Unknown / No Depot
-221962	Unknown / No Depot
-221963	Unknown / No Depot
-221964	Unknown / No Depot
-221965	Unknown / No Depot
-221966	Unknown / No Depot
-221967	Unknown / No Depot
-221968	Unknown / No Depot
-221969	Unknown / No Depot
-221970	Unknown / No Depot
-221972	Unknown / No Depot
+221944	F1 Kart Stars (data)
+221945	F1 Kart Stars (data)
+221946	F1 Kart Stars (data)
+221947	F1 Kart Stars (data)
+221948	F1 Kart Stars (data)
+221949	F1 Kart Stars (data)
+221950	F1 Kart Stars (data)
+221952	F1 Kart Stars (data)
+221961	F1 Kart Stars (data)
+221962	F1 Kart Stars (data)
+221963	F1 Kart Stars (data)
+221964	F1 Kart Stars (data)
+221965	F1 Kart Stars (data)
+221966	F1 Kart Stars (data)
+221967	F1 Kart Stars (data)
+221968	F1 Kart Stars (data)
+221969	F1 Kart Stars (data)
+221970	F1 Kart Stars (data)
+221972	F1 Kart Stars (data)
 222301	F1 Race Stars Demo
 222302	F1 Race Stars Demo
 222303	F1 Race Stars Demo
 222304	F1 Race Stars Demo
-222305	Unknown / No Depot
+222305	F1 Race Stars Demo (data)
 222306	F1 Race Stars Demo
 222307	F1 Race Stars Demo
 222308	F1 Race Stars Demo
