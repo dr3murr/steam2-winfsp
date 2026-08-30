@@ -176,7 +176,7 @@
 349	Half-Life 2: Lost Coast (localization)
 350	Half-Life 2: Lost Coast (localization)
 351	F.E.A.R. 2: Project Origin Demo
-352	Unknown (runme.exe)
+352	runme.exe install stub
 355	Spore
 360	Half-Life Deathmatch: Source
 363	Half-Life Deathmatch: Source
@@ -551,7 +551,7 @@
 2144	Dark Messiah of Might & Magic Dedicated Server
 2151	Dark Messiah SDK Beta
 2152	Dark Messiah SDK Beta
-2199	Unknown (mm)
+2199	DM Demo Fix
 2201	Quake III Arena / Quake III: Team Arena
 2211	Quake 4
 2221	Commander Keen 1
@@ -990,7 +990,7 @@
 4523	Full Spectrum Warrior
 4524	Full Spectrum Warrior
 4525	Full Spectrum Warrior
-4526	Unknown (FSW)
+4526	Full Spectrum Warrior
 4527	Full Spectrum Warrior
 4531	Full Spectrum Warrior: Ten Hammers
 4532	Full Spectrum Warrior: Ten Hammers
@@ -1089,7 +1089,7 @@
 4832	S.T.A.L.K.E.R.: Shadow of Chernobyl
 4833	S.T.A.L.K.E.R.: Shadow of Chernobyl
 4834	S.T.A.L.K.E.R.: Shadow of Chernobyl
-4841	Unknown (S.T.A.L.K.E.R.)
+4841	S.T.A.L.K.E.R.: Shadow of Chernobyl
 4851	Cossacks: Back to War
 4852	Cossacks: Back to War
 4853	Cossacks: Back to War
@@ -1398,7 +1398,7 @@
 5304	Droplitz Trailer
 5305	Team Fortress 2: Meet the Spy (Russian)
 5306	Trine Trailer 3
-5307	Unknown (reslists)
+5307	LEGO Indiana Jones trailer (reslists)
 5309	Bionic Command Rearmed Trailer
 5310	Bionic Commando Trailer
 5311	Champions Online Teaser
@@ -1959,7 +1959,7 @@
 5945	MOH - Part 5
 5946	Lost Horizon Trailer
 5947	Airforte Preview
-5948	Unknown (reslists)
+5948	Trailer (reslists)
 5949	Haunted House Trailer 1
 5950	Haunted House Trailer 2
 5951	Shank Trailer
@@ -2721,7 +2721,7 @@
 9817	The Witcher (localization)
 9818	The Witcher (localization)
 9819	The Witcher (localization)
-9841	Unknown (kb.exe)
+9841	King's Bounty: The Legend
 9851	Codename: Panzers - Cold War
 9852	Codename: Panzers - Cold War
 9853	Codename: Panzers - Cold War
@@ -2985,7 +2985,7 @@
 11373	Nikopol: Secrets of the Immortals
 11374	Nikopol: Secrets of the Immortals
 11375	Nikopol: Secrets of the Immortals
-11381	Unknown (RTM_Fullscreen.exe)
+11381	Rennsport Manager
 11391	Crash Time 2
 11421	Clive Barker's Jericho
 11422	Clive Barker's Jericho
@@ -3047,12 +3047,12 @@
 11574	LMA Manager 2007 (data)
 11575	LMA Manager 2007 (data)
 11576	LMA Manager 2007 (data)
-11581	Unknown (Game.exe)
-11582	Unknown (Game data)
-11583	Unknown (Game data)
-11584	Unknown (Game data)
-11585	Unknown (Game data)
-11586	Unknown (Game data)
+11581	1nsane
+11582	1nsane (data)
+11583	1nsane (data)
+11584	1nsane (data)
+11585	1nsane (data)
+11586	1nsane (data)
 11591	Hospital Tycoon
 11601	Left 4 Dead (localization)
 11701	Lord of the Rings Online
@@ -3709,7 +3709,7 @@
 17162	Hinterland
 17171	Civil War
 17181	Mosby's Confederacy
-17201	Unknown (redist)
+17201	Redistributable package (DirectX/VC)
 17202	F.E.A.R. 3
 17203	F.E.A.R. 3 (resources)
 17204	F.E.A.R. 3 (resources)
@@ -5783,11 +5783,11 @@
 35143	Batman: Arkham Asylum GOTY Edition
 35144	Batman: Arkham Asylum GOTY Edition
 35145	Batman: Arkham Asylum GOTY Edition
-35201	Unknown (main.exe)
-35202	Unknown (assets)
-35203	Unknown (assets)
-35204	Unknown (assets)
-35205	Unknown (assets)
+35201	A Vampyre Story (raw asset depot)
+35202	A Vampyre Story (assets)
+35203	A Vampyre Story (assets)
+35204	A Vampyre Story (assets)
+35205	A Vampyre Story (assets)
 35301	Warfare
 35311	Clutch
 35321	Insane 2
@@ -6957,7 +6957,7 @@
 46772	Making History II: The War of the World / Making History II: The War of the World - Demo
 46773	Making History II: The War of the World
 46774	Making History II: The War of the World - Demo
-46781	Unknown (shell.exe)
+46781	Steel Fury: Kharkov 1942
 46791	Armada 2526
 46792	Armada 2526
 46831	Ironclads: Anglo Russian War 1866
@@ -7160,7 +7160,7 @@
 48248	Anno 2070
 48249	Anno 2070
 48255	Anno 2070
-48261	Unknown (Ubisoft launcher)
+48261	Might & Magic Heroes VI - Internal Private Closed Beta
 48281	Might & Magic: Heroes VI - Demo
 48701	Mount & Blade: Warband
 48705	Mount & Blade: Warband
@@ -7748,7 +7748,7 @@
 58312	System Protocol One Demo
 58401	Turba
 58411	Turba Demo
-58501	Unknown (PCM/CTStage)
+58501	Pro Cycling Manager 2010
 58511	Cities XL 2011
 58512	Cities XL 2011
 58513	Cities XL 2011
@@ -7810,7 +7810,7 @@
 58617	Wargame: European Escalation
 58618	Wargame: European Escalation
 58619	Wargame: European Escalation
-58621	Unknown (WarGame.exe)
+58621	Wargame: European Escalation
 58622	Wargame: European Escalation (data)
 58640	Wargame: European Escalation
 58641	Wargame: European Escalation
@@ -7834,12 +7834,12 @@
 58753	WMC 3
 58761	Paradise Quest
 58762	Paradise Quest
-58771	Unknown (DMF.exe)
+58771	Agatha Christie: Dead Man's Folly
 58772	Wicked Manor Chronicles (data)
-58773	Unknown (DMF.exe)
-58781	Unknown (endhouse.exe)
+58773	Agatha Christie: Dead Man's Folly (data)
+58781	Agatha Christie: Peril at End House
 58782	Wicked Manor Chronicles (data)
-58783	Unknown (endhouse.exe)
+58783	Agatha Christie: Peril at End House (data)
 60301	Luxor (data)
 60311	Luxor (data)
 60321	Luxor (data)
@@ -7909,9 +7909,9 @@
 63208	Monday Night Combat
 63221	Monday Night Combat Dedicated Server
 63301	Empire Earth II
-63321	Unknown (gcii.exe)
+63321	Galactic Civilizations II
 63331	Free Running
-63341	Unknown (lomse.exe)
+63341	Lords of Magic: Special Edition
 63351	Lords of the Realm
 63361	Lords of the Realm III
 63371	Empire Earth III
@@ -7986,7 +7986,7 @@
 64017	Men of War: Assault Squad
 64031	Men of War: Assault Squad - Demo
 65001	Motor Rock 2
-65002	Unknown (2fd.exe)
+65002	Maluch Racer 2 (2 Fast Driver)
 65011	Need for Ride
 65031	City Bus Simulator
 65041	Airport Simulator
@@ -8180,9 +8180,9 @@
 67383	The Darkness II
 67384	The Darkness II
 67385	The Darkness II
-67391	Unknown (Beast/X360 tools)
-67681	Unknown (SRGame.exe)
-67682	Unknown (SRGame.exe)
+67391	Darksiders II
+67681	Spec Ops: The Line
+67682	Spec Ops: The Line
 70001	Dino D-Day / Dino D-Day SDK / Dino D-Day - Dedicated Server
 70002	Dino D-Day / Dino D-Day SDK
 70003	Dino D-Day SDK
@@ -9418,7 +9418,7 @@
 99401	Garshasp: The Monster Slayer
 99501	RailWorks
 99511	RailWorks
-99521	Unknown (Game.exe / acknex)
+99521	Digger Simulator 2011
 99531	Tow Truck Simulator 2010
 99532	Tow Truck Simulator 2010 (data)
 99533	Tow Truck Simulator 2010 (data)
@@ -9690,7 +9690,7 @@
 113204	The Binding of Isaac
 113205	The Binding of Isaac
 113401	APB Reloaded
-113421	Unknown (Frontend.exe)
+113421	Fallen Earth Classic
 113422	Fallen Earth Classic
 113901	World of Battles
 115101	Costume Quest
@@ -9760,7 +9760,7 @@
 200231	Off-Road Drive
 200241	Batman: Arkham City Demo
 200261	Batman: Arkham City GOTY
-200281	Unknown (UE3 GFx tools)
+200281	The Haunted: Hells Reach Beta
 200282	Batman: Arkham City (data)
 200283	Batman: Arkham City (data)
 200284	Batman: Arkham City (data)
@@ -9781,7 +9781,7 @@
 200402	Wasteland Angel - Demo
 200411	SOL: Exodus
 200431	Oil Rush (data)
-200432	Unknown (redist)
+200432	Dead Island Test Build
 200433	Oil Rush (data)
 200441	Two Worlds II HD
 200442	Two Worlds II HD
@@ -9790,7 +9790,7 @@
 200445	Two Worlds II HD
 200446	Two Worlds II HD
 200511	XCOM: Enemy Unknown
-200512	XCOM: Enemy Unknown
+200512	XCOM: Enemy Unknown (exe)
 200531	MAGIX Movie Edit Pro 2013 Plus
 200551	Dungeons - The Dark Lord
 200552	Dungeons - The Dark Lord
@@ -9851,7 +9851,7 @@
 201194	Magic: The Gathering – Tactics
 201195	Magic: The Gathering – Tactics
 201196	Magic: The Gathering – Tactics
-201211	Unknown (Java/Flash)
+201211	Poxnora
 201231	EverQuest II
 201232	EverQuest II (data)
 201233	EverQuest II
@@ -9879,11 +9879,11 @@
 201318	X3: Albion Prelude
 201319	X3: Albion Prelude
 201331	Max Payne (IT)
-201341	Unknown (UE3 GFx tools)
-201342	UE3 GFx tools (data)
-201343	UE3 GFx tools (data)
-201344	UE3 GFx tools (data)
-201345	UE3 GFx tools (data)
+201341	The Haunted: Hells Reach Playtest
+201342	The Haunted: Hells Reach Playtest (data)
+201343	The Haunted: Hells Reach Playtest (data)
+201344	The Haunted: Hells Reach Playtest (data)
+201345	The Haunted: Hells Reach Playtest (data)
 201421	Toki Tori 2+ / Toki Tori 2+ Level Editor
 201422	Toki Tori 2+ / Toki Tori 2+ Level Editor
 201481	Serious Sam: The Random Encounter
@@ -9893,7 +9893,7 @@
 201494	Airline Tycoon 2
 201495	Airline Tycoon 2
 201511	FlatOut 3: Chaos & Destruction
-201531	Unknown (redist)
+201531	Redistributable package (Rage engine, DirectX/VC)
 201532	FlatOut 3 (data)
 201533	FlatOut 3 (data)
 201534	FlatOut 3 (data)
@@ -10267,7 +10267,7 @@
 205939	Hitman: Sniper Challenge
 205940	Hitman: Sniper Challenge
 205941	Hitman: Sniper Challenge
-206011	Unknown (VTrace.exe)
+206011	VTrace
 206021	Avernum 4
 206041	Avernum 5
 206061	Avernum 6
@@ -10280,7 +10280,7 @@
 206291	Unstoppable Gorg Demo
 206292	Unstoppable Gorg Demo
 206311	Crusader Kings II Demo
-206331	Unknown (Evo.exe)
+206331	Darksiders II
 206351	Confrontation
 206352	Confrontation (data)
 206353	Confrontation (data)
@@ -10368,7 +10368,7 @@
 207432	Hack, Slash, Loot
 207531	Noitu Love 2 Devolution
 207551	The Expendables 2: Mercs
-207591	Unknown (Game.exe)
+207591	Scarygirl
 207611	The Walking Dead
 207612	The Walking Dead
 207631	iBomber Defense Pacific  Demo
@@ -10477,7 +10477,7 @@
 208461	Tryst
 208501	F1 2012
 208502	F1 2012
-208503	Unknown (Unity QA)
+208503	F1 2012 Debug
 208504	F1 2012
 208505	F1 2012
 208506	F1 2012
@@ -10620,7 +10620,7 @@
 210741	Analogue: A Hate Story Demo
 210742	Analogue: A Hate Story Demo
 210801	Nexuiz
-210821	Unknown (redist)
+210821	Sniper Elite V2 Press
 210822	Nexuiz (data)
 210823	Nexuiz (data)
 210824	Nexuiz (data)
@@ -10793,29 +10793,29 @@
 215731	Might & Magic Heroes VI
 216671	Great Big War Game
 218371	DiRT Showdown
-218372	F1 2012
-218373	Unknown (Unity QA)
-218374	F1 2012 (data)
-218375	F1 2012 (data)
-218376	F1 2012 (data)
-218377	F1 2012 (data)
-218378	F1 2012 (data)
-218379	F1 2012 (data)
-218380	F1 2012 (data)
-218381	F1 2012 (data)
-218382	F1 2012 (data)
+218372	F1 2012 Preview
+218373	F1 2012 Preview Debug
+218374	F1 2012 Preview (data)
+218375	F1 2012 Preview (data)
+218376	F1 2012 Preview (data)
+218377	F1 2012 Preview (data)
+218378	F1 2012 Preview (data)
+218379	F1 2012 Preview (data)
+218380	F1 2012 Preview (data)
+218381	F1 2012 Preview (data)
+218382	F1 2012 Preview (data)
 218391	DiRT Showdown
-218392	F1 2012
-218393	Unknown (Unity QA)
-218394	F1 2012 (data)
-218395	F1 2012 (data)
-218396	F1 2012 (data)
-218397	F1 2012 (data)
-218398	F1 2012 (data)
-218399	F1 2012 (data)
-218400	F1 2012 (data)
-218401	F1 2012 (data)
-218402	F1 2012 (data)
+218392	F1 2012 Review
+218393	F1 2012 Review Debug
+218394	F1 2012 Review (data)
+218395	F1 2012 Review (data)
+218396	F1 2012 Review (data)
+218397	F1 2012 Review (data)
+218398	F1 2012 Review (data)
+218399	F1 2012 Review (data)
+218400	F1 2012 Review (data)
+218401	F1 2012 Review (data)
+218402	F1 2012 Review (data)
 220760	The Elder Scrolls V: Skyrim
 220761	The Elder Scrolls V: Skyrim / The Elder Scrolls V: Skyrim Preorder Ad App
 220762	The Elder Scrolls V: Skyrim / The Elder Scrolls V: Skyrim Preorder Ad App
